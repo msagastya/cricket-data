@@ -1,0 +1,21 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Matches collection is publicly readable
+    match /matches/{matchId} {
+      allow read: if true;
+
+      // Writes are completely disallowed from the client.
+      // All writes must go through the trusted backend server (Vercel Serverless Function),
+      // which uses the Firebase Admin SDK to bypass these rules.
+      allow write: if false;
+    }
+
+    // By default, deny all other reads and writes
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
