@@ -1,0 +1,8024 @@
+{
+  "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+  "info": {
+    "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+    "match_number": 1963,
+    "dates": [
+      "2003-02-23T00:00:00.000Z"
+    ],
+    "season": "2002/03",
+    "venue": "SuperSport Park, Centurion",
+    "city": "Centurion",
+    "event": {
+      "name": "ICC World Cup",
+      "match_number": 24,
+      "group": "B"
+    },
+    "match_type": "ODI",
+    "gender": "male",
+    "overs": 50,
+    "balls_per_over": 6,
+    "teams": [
+      "Canada",
+      "West Indies"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "West Indies"
+    },
+    "umpires": [
+      "EAR de Silva",
+      "DB Hair"
+    ],
+    "referee": "RS Madugalle",
+    "tv_umpire": "Nadeem Ghauri",
+    "outcome": {
+      "winner": "West Indies",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "player_of_match": [
+      "JM Davison"
+    ],
+    "players": {
+      "Canada": [
+        "I Maraj",
+        "JM Davison",
+        "DR Chumney",
+        "IS Billcliff",
+        "N Ifill",
+        "JV Harris",
+        "NA de Groot",
+        "A Bagai",
+        "A Codrington",
+        "BB Seebaran",
+        "D Joseph"
+      ],
+      "West Indies": [
+        "CH Gayle",
+        "WW Hinds",
+        "BC Lara",
+        "RR Sarwan",
+        "CL Hooper",
+        "S Chanderpaul",
+        "RL Powell",
+        "RD Jacobs",
+        "VC Drakes",
+        "M Dillon",
+        "PT Collins"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Bagai": "112959b2",
+        "A Codrington": "9cb022df",
+        "BB Seebaran": "fc54ef7a",
+        "BC Lara": "d5403021",
+        "CH Gayle": "db584dad",
+        "CL Hooper": "61dab16a",
+        "D Joseph": "b7b66a96",
+        "DB Hair": "492e1a8e",
+        "DR Chumney": "1f3ad23f",
+        "EAR de Silva": "dc63f509",
+        "I Maraj": "2d783277",
+        "IS Billcliff": "1fb2f362",
+        "JM Davison": "5471024e",
+        "JV Harris": "d1ac815a",
+        "M Dillon": "5af87ad6",
+        "N Ifill": "1d5dd8a6",
+        "NA de Groot": "15d1b59e",
+        "Nadeem Ghauri": "8387d138",
+        "PT Collins": "f1cb042f",
+        "RD Jacobs": "c1f9b051",
+        "RL Powell": "33a50ecf",
+        "RR Sarwan": "36d33dd0",
+        "RS Madugalle": "766b5798",
+        "S Chanderpaul": "881a9bdd",
+        "VC Drakes": "b16b5eea",
+        "WW Hinds": "60beb01b"
+      }
+    },
+    "created": {
+      "_seconds": 1764253980,
+      "_nanoseconds": 922000000
+    },
+    "updated": {
+      "_seconds": 1764253980,
+      "_nanoseconds": 922000000
+    }
+  },
+  "innings": [
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "team": "Canada",
+      "total_runs": 202,
+      "total_wickets": 10,
+      "overs": 42.5,
+      "batters": [
+        {
+          "player": "I Maraj",
+          "runs": 16,
+          "balls": 34,
+          "fours": 2,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "caught",
+            "bowler": "PT Collins",
+            "fielders": [
+              "CL Hooper"
+            ]
+          },
+          "strike_rate": 47.05882352941176,
+          "position": 1
+        },
+        {
+          "player": "JM Davison",
+          "runs": 111,
+          "balls": 76,
+          "fours": 8,
+          "sixes": 6,
+          "dismissal": {
+            "kind": "caught",
+            "bowler": "WW Hinds",
+            "fielders": [
+              "VC Drakes"
+            ]
+          },
+          "strike_rate": 146.05263157894737,
+          "position": 2
+        },
+        {
+          "player": "DR Chumney",
+          "runs": 19,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 1,
+          "dismissal": {
+            "kind": "caught",
+            "bowler": "WW Hinds",
+            "fielders": [
+              "CH Gayle"
+            ]
+          },
+          "strike_rate": 76,
+          "position": 3
+        },
+        {
+          "player": "IS Billcliff",
+          "runs": 16,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "caught",
+            "bowler": "VC Drakes",
+            "fielders": [
+              "RD Jacobs"
+            ]
+          },
+          "strike_rate": 48.484848484848484,
+          "position": 4
+        },
+        {
+          "player": "N Ifill",
+          "runs": 9,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "caught",
+            "bowler": "VC Drakes",
+            "fielders": [
+              "RD Jacobs"
+            ]
+          },
+          "strike_rate": 32.142857142857146,
+          "position": 5
+        },
+        {
+          "player": "JV Harris",
+          "runs": 6,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "caught",
+            "bowler": "VC Drakes",
+            "fielders": [
+              "CL Hooper"
+            ]
+          },
+          "strike_rate": 26.08695652173913,
+          "position": 6
+        },
+        {
+          "player": "NA de Groot",
+          "runs": 11,
+          "balls": 32,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 34.375,
+          "position": 7
+        },
+        {
+          "player": "A Bagai",
+          "runs": 2,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "run out",
+            "bowler": "VC Drakes",
+            "fielders": [
+              "RL Powell"
+            ]
+          },
+          "strike_rate": 22.22222222222222,
+          "position": 8
+        },
+        {
+          "player": "A Codrington",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "caught",
+            "bowler": "VC Drakes",
+            "fielders": [
+              "RD Jacobs"
+            ]
+          },
+          "strike_rate": 0,
+          "position": 9
+        },
+        {
+          "player": "BB Seebaran",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "lbw",
+            "bowler": "VC Drakes"
+          },
+          "strike_rate": 0,
+          "position": 10
+        },
+        {
+          "player": "D Joseph",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0,
+          "position": 11
+        }
+      ],
+      "bowlers": [
+        {
+          "player": "M Dillon",
+          "balls": 30,
+          "runs": 41,
+          "wickets": 0,
+          "wides": 1,
+          "noballs": 0,
+          "dots": 17,
+          "fours": 4,
+          "sixes": 2,
+          "maidens": 0,
+          "overs": 5,
+          "economy": 8.2
+        },
+        {
+          "player": "PT Collins",
+          "balls": 45,
+          "runs": 37,
+          "wickets": 1,
+          "wides": 1,
+          "noballs": 3,
+          "dots": 29,
+          "fours": 3,
+          "sixes": 1,
+          "maidens": 0,
+          "overs": 7.3,
+          "economy": 4.933333333333334
+        },
+        {
+          "player": "VC Drakes",
+          "balls": 62,
+          "runs": 44,
+          "wickets": 7,
+          "wides": 0,
+          "noballs": 3,
+          "dots": 46,
+          "fours": 3,
+          "sixes": 2,
+          "maidens": 0,
+          "overs": 10.2,
+          "economy": 4.258064516129032
+        },
+        {
+          "player": "CL Hooper",
+          "balls": 48,
+          "runs": 31,
+          "wickets": 0,
+          "wides": 1,
+          "noballs": 0,
+          "dots": 28,
+          "fours": 2,
+          "sixes": 0,
+          "maidens": 0,
+          "overs": 8,
+          "economy": 3.875
+        },
+        {
+          "player": "CH Gayle",
+          "balls": 54,
+          "runs": 29,
+          "wickets": 0,
+          "wides": 0,
+          "noballs": 0,
+          "dots": 38,
+          "fours": 1,
+          "sixes": 2,
+          "maidens": 0,
+          "overs": 9,
+          "economy": 3.2222222222222223
+        },
+        {
+          "player": "WW Hinds",
+          "balls": 24,
+          "runs": 20,
+          "wickets": 2,
+          "wides": 0,
+          "noballs": 0,
+          "dots": 12,
+          "fours": 2,
+          "sixes": 0,
+          "maidens": 0,
+          "overs": 4,
+          "economy": 5
+        }
+      ],
+      "extras": {
+        "total": 12,
+        "wides": 3,
+        "noballs": 6,
+        "byes": 0,
+        "legbyes": 3,
+        "penalty": 0
+      },
+      "fow": [
+        {
+          "runs": 96,
+          "wickets": 1,
+          "batter": "I Maraj",
+          "over": 11
+        },
+        {
+          "runs": 155,
+          "wickets": 2,
+          "batter": "DR Chumney",
+          "over": 20
+        },
+        {
+          "runs": 156,
+          "wickets": 3,
+          "batter": "JM Davison",
+          "over": 22
+        },
+        {
+          "runs": 174,
+          "wickets": 4,
+          "batter": "N Ifill",
+          "over": 28
+        },
+        {
+          "runs": 185,
+          "wickets": 5,
+          "batter": "IS Billcliff",
+          "over": 34
+        },
+        {
+          "runs": 190,
+          "wickets": 6,
+          "batter": "JV Harris",
+          "over": 38
+        },
+        {
+          "runs": 197,
+          "wickets": 7,
+          "batter": "A Bagai",
+          "over": 42
+        },
+        {
+          "runs": 202,
+          "wickets": 8,
+          "batter": "A Codrington",
+          "over": 42
+        },
+        {
+          "runs": 202,
+          "wickets": 9,
+          "batter": "BB Seebaran",
+          "over": 42
+        },
+        {
+          "runs": 202,
+          "wickets": 10,
+          "batter": "NA de Groot",
+          "over": 42
+        }
+      ],
+      "partnerships": [
+        {
+          "wicket": 1,
+          "batters": [
+            "I Maraj",
+            "JM Davison"
+          ],
+          "runs": 96,
+          "balls": 77,
+          "batter1_contribution": 16,
+          "batter2_contribution": 72,
+          "overs_range": [
+            0,
+            11
+          ]
+        },
+        {
+          "wicket": 2,
+          "batters": [
+            "DR Chumney",
+            "JM Davison"
+          ],
+          "runs": 59,
+          "balls": 54,
+          "batter1_contribution": 19,
+          "batter2_contribution": 38,
+          "overs_range": [
+            12,
+            20
+          ]
+        },
+        {
+          "wicket": 3,
+          "batters": [
+            "IS Billcliff",
+            "JM Davison"
+          ],
+          "runs": 1,
+          "balls": 7,
+          "batter1_contribution": 0,
+          "batter2_contribution": 1,
+          "overs_range": [
+            21,
+            22
+          ]
+        },
+        {
+          "wicket": 4,
+          "batters": [
+            "IS Billcliff",
+            "N Ifill"
+          ],
+          "runs": 18,
+          "balls": 39,
+          "batter1_contribution": 8,
+          "batter2_contribution": 9,
+          "overs_range": [
+            22,
+            28
+          ]
+        },
+        {
+          "wicket": 5,
+          "batters": [
+            "IS Billcliff",
+            "JV Harris"
+          ],
+          "runs": 11,
+          "balls": 33,
+          "batter1_contribution": 8,
+          "batter2_contribution": 3,
+          "overs_range": [
+            28,
+            34
+          ]
+        },
+        {
+          "wicket": 6,
+          "batters": [
+            "JV Harris",
+            "NA de Groot"
+          ],
+          "runs": 5,
+          "balls": 26,
+          "batter1_contribution": 3,
+          "batter2_contribution": 2,
+          "overs_range": [
+            34,
+            38
+          ]
+        },
+        {
+          "wicket": 7,
+          "batters": [
+            "A Bagai",
+            "NA de Groot"
+          ],
+          "runs": 7,
+          "balls": 23,
+          "batter1_contribution": 2,
+          "batter2_contribution": 4,
+          "overs_range": [
+            38,
+            42
+          ]
+        },
+        {
+          "wicket": 8,
+          "batters": [
+            "A Codrington",
+            "NA de Groot"
+          ],
+          "runs": 5,
+          "balls": 2,
+          "batter1_contribution": 0,
+          "batter2_contribution": 5,
+          "overs_range": [
+            42,
+            42
+          ]
+        },
+        {
+          "wicket": 9,
+          "batters": [
+            "BB Seebaran",
+            "NA de Groot"
+          ],
+          "runs": 0,
+          "balls": 1,
+          "batter1_contribution": 0,
+          "batter2_contribution": 0,
+          "overs_range": [
+            42,
+            42
+          ]
+        },
+        {
+          "wicket": 10,
+          "batters": [
+            "D Joseph",
+            "NA de Groot"
+          ],
+          "runs": 0,
+          "balls": 1,
+          "batter1_contribution": 0,
+          "batter2_contribution": 0,
+          "overs_range": [
+            42,
+            42
+          ]
+        }
+      ]
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "team": "West Indies",
+      "total_runs": 206,
+      "total_wickets": 3,
+      "overs": 20.3,
+      "batters": [
+        {
+          "player": "CH Gayle",
+          "runs": 8,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "caught",
+            "bowler": "D Joseph",
+            "fielders": [
+              "A Bagai"
+            ]
+          },
+          "strike_rate": 61.53846153846154,
+          "position": 1
+        },
+        {
+          "player": "WW Hinds",
+          "runs": 64,
+          "balls": 31,
+          "fours": 10,
+          "sixes": 3,
+          "dismissal": {
+            "kind": "stumped",
+            "bowler": "JM Davison",
+            "fielders": [
+              "A Bagai"
+            ]
+          },
+          "strike_rate": 206.4516129032258,
+          "position": 2
+        },
+        {
+          "player": "BC Lara",
+          "runs": 73,
+          "balls": 40,
+          "fours": 8,
+          "sixes": 5,
+          "dismissal": {
+            "kind": "bowled",
+            "bowler": "NA de Groot"
+          },
+          "strike_rate": 182.5,
+          "position": 3
+        },
+        {
+          "player": "RR Sarwan",
+          "runs": 42,
+          "balls": 32,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 131.25,
+          "position": 4
+        },
+        {
+          "player": "CL Hooper",
+          "runs": 5,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "position": 5
+        }
+      ],
+      "bowlers": [
+        {
+          "player": "D Joseph",
+          "balls": 24,
+          "runs": 47,
+          "wickets": 1,
+          "wides": 2,
+          "noballs": 0,
+          "dots": 11,
+          "fours": 7,
+          "sixes": 2,
+          "maidens": 0,
+          "overs": 4,
+          "economy": 11.75
+        },
+        {
+          "player": "A Codrington",
+          "balls": 24,
+          "runs": 29,
+          "wickets": 0,
+          "wides": 1,
+          "noballs": 0,
+          "dots": 16,
+          "fours": 4,
+          "sixes": 1,
+          "maidens": 0,
+          "overs": 4,
+          "economy": 7.25
+        },
+        {
+          "player": "N Ifill",
+          "balls": 25,
+          "runs": 47,
+          "wickets": 0,
+          "wides": 4,
+          "noballs": 1,
+          "dots": 9,
+          "fours": 7,
+          "sixes": 1,
+          "maidens": 0,
+          "overs": 4.1,
+          "economy": 11.28
+        },
+        {
+          "player": "BB Seebaran",
+          "balls": 6,
+          "runs": 26,
+          "wickets": 0,
+          "wides": 0,
+          "noballs": 0,
+          "dots": 1,
+          "fours": 2,
+          "sixes": 3,
+          "maidens": 0,
+          "overs": 1,
+          "economy": 26
+        },
+        {
+          "player": "JM Davison",
+          "balls": 30,
+          "runs": 36,
+          "wickets": 1,
+          "wides": 1,
+          "noballs": 0,
+          "dots": 15,
+          "fours": 6,
+          "sixes": 0,
+          "maidens": 0,
+          "overs": 5,
+          "economy": 7.199999999999999
+        },
+        {
+          "player": "NA de Groot",
+          "balls": 15,
+          "runs": 21,
+          "wickets": 1,
+          "wides": 0,
+          "noballs": 0,
+          "dots": 5,
+          "fours": 2,
+          "sixes": 1,
+          "maidens": 0,
+          "overs": 2.3,
+          "economy": 8.399999999999999
+        }
+      ],
+      "extras": {
+        "total": 14,
+        "wides": 8,
+        "noballs": 1,
+        "byes": 0,
+        "legbyes": 5,
+        "penalty": 0
+      },
+      "fow": [
+        {
+          "runs": 32,
+          "wickets": 1,
+          "batter": "CH Gayle",
+          "over": 4
+        },
+        {
+          "runs": 134,
+          "wickets": 2,
+          "batter": "WW Hinds",
+          "over": 11
+        },
+        {
+          "runs": 177,
+          "wickets": 3,
+          "batter": "BC Lara",
+          "over": 16
+        }
+      ],
+      "partnerships": [
+        {
+          "wicket": 1,
+          "batters": [
+            "CH Gayle",
+            "WW Hinds"
+          ],
+          "runs": 32,
+          "balls": 26,
+          "batter1_contribution": 8,
+          "batter2_contribution": 18,
+          "overs_range": [
+            0,
+            4
+          ]
+        },
+        {
+          "wicket": 2,
+          "batters": [
+            "BC Lara",
+            "WW Hinds"
+          ],
+          "runs": 102,
+          "balls": 44,
+          "batter1_contribution": 51,
+          "batter2_contribution": 46,
+          "overs_range": [
+            4,
+            11
+          ]
+        },
+        {
+          "wicket": 3,
+          "batters": [
+            "BC Lara",
+            "RR Sarwan"
+          ],
+          "runs": 43,
+          "balls": 32,
+          "batter1_contribution": 22,
+          "batter2_contribution": 18,
+          "overs_range": [
+            11,
+            16
+          ]
+        },
+        {
+          "wicket": 4,
+          "batters": [
+            "CL Hooper",
+            "RR Sarwan"
+          ],
+          "runs": 29,
+          "balls": 22,
+          "batter1_contribution": 5,
+          "batter2_contribution": 24,
+          "overs_range": [
+            16,
+            20
+          ]
+        }
+      ]
+    }
+  ],
+  "deliveries": [
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 0,
+      "ball": 1,
+      "batter": "I Maraj",
+      "bowler": "M Dillon",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 0,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 0,
+      "ball": 2,
+      "batter": "I Maraj",
+      "bowler": "M Dillon",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 0,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 0,
+      "ball": 3,
+      "batter": "I Maraj",
+      "bowler": "M Dillon",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 0,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 0,
+      "ball": 4,
+      "batter": "I Maraj",
+      "bowler": "M Dillon",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 1,
+        "total": 1
+      },
+      "extras": {
+        "wides": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 1,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 0,
+      "ball": 5,
+      "batter": "I Maraj",
+      "bowler": "M Dillon",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 1,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 0,
+      "ball": 6,
+      "batter": "I Maraj",
+      "bowler": "M Dillon",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 1,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 0,
+      "ball": 7,
+      "batter": "I Maraj",
+      "bowler": "M Dillon",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 1,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 10,
+      "ball": 1,
+      "batter": "JM Davison",
+      "bowler": "VC Drakes",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "middle",
+      "cumulative_runs": 81,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 10,
+      "ball": 2,
+      "batter": "JM Davison",
+      "bowler": "VC Drakes",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 6,
+        "extras": 0,
+        "total": 6
+      },
+      "phase": "middle",
+      "cumulative_runs": 87,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 10,
+      "ball": 3,
+      "batter": "JM Davison",
+      "bowler": "VC Drakes",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 2,
+        "extras": 0,
+        "total": 2
+      },
+      "phase": "middle",
+      "cumulative_runs": 89,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 10,
+      "ball": 4,
+      "batter": "JM Davison",
+      "bowler": "VC Drakes",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 2,
+        "extras": 0,
+        "total": 2
+      },
+      "phase": "middle",
+      "cumulative_runs": 91,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 10,
+      "ball": 5,
+      "batter": "JM Davison",
+      "bowler": "VC Drakes",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 91,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 10,
+      "ball": 6,
+      "batter": "JM Davison",
+      "bowler": "VC Drakes",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 2,
+        "extras": 0,
+        "total": 2
+      },
+      "phase": "middle",
+      "cumulative_runs": 93,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 11,
+      "ball": 1,
+      "batter": "I Maraj",
+      "bowler": "PT Collins",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 94,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 11,
+      "ball": 2,
+      "batter": "JM Davison",
+      "bowler": "PT Collins",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 94,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 11,
+      "ball": 3,
+      "batter": "JM Davison",
+      "bowler": "PT Collins",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 1,
+        "extras": 1,
+        "total": 2
+      },
+      "extras": {
+        "noballs": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 96,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 11,
+      "ball": 4,
+      "batter": "I Maraj",
+      "bowler": "PT Collins",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 96,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 11,
+      "ball": 5,
+      "batter": "I Maraj",
+      "bowler": "PT Collins",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 96,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 11,
+      "ball": 6,
+      "batter": "I Maraj",
+      "bowler": "PT Collins",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 96,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 11,
+      "ball": 7,
+      "batter": "I Maraj",
+      "bowler": "PT Collins",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "wickets": [
+        {
+          "player_out": "I Maraj",
+          "fielders": [
+            {
+              "name": "CL Hooper"
+            }
+          ],
+          "kind": "caught"
+        }
+      ],
+      "phase": "middle",
+      "cumulative_runs": 96,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 12,
+      "ball": 1,
+      "batter": "JM Davison",
+      "bowler": "CL Hooper",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 96,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 12,
+      "ball": 2,
+      "batter": "JM Davison",
+      "bowler": "CL Hooper",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 2,
+        "extras": 0,
+        "total": 2
+      },
+      "phase": "middle",
+      "cumulative_runs": 98,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 12,
+      "ball": 3,
+      "batter": "JM Davison",
+      "bowler": "CL Hooper",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 98,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 12,
+      "ball": 4,
+      "batter": "JM Davison",
+      "bowler": "CL Hooper",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 2,
+        "extras": 0,
+        "total": 2
+      },
+      "phase": "middle",
+      "cumulative_runs": 100,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 12,
+      "ball": 5,
+      "batter": "JM Davison",
+      "bowler": "CL Hooper",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 2,
+        "extras": 0,
+        "total": 2
+      },
+      "phase": "middle",
+      "cumulative_runs": 102,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 12,
+      "ball": 6,
+      "batter": "JM Davison",
+      "bowler": "CL Hooper",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 102,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 13,
+      "ball": 1,
+      "batter": "DR Chumney",
+      "bowler": "PT Collins",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 1,
+        "total": 1
+      },
+      "extras": {
+        "legbyes": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 103,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 13,
+      "ball": 2,
+      "batter": "JM Davison",
+      "bowler": "PT Collins",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 104,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 13,
+      "ball": 3,
+      "batter": "DR Chumney",
+      "bowler": "PT Collins",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 104,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 13,
+      "ball": 4,
+      "batter": "DR Chumney",
+      "bowler": "PT Collins",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 104,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 13,
+      "ball": 5,
+      "batter": "DR Chumney",
+      "bowler": "PT Collins",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 104,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 13,
+      "ball": 6,
+      "batter": "DR Chumney",
+      "bowler": "PT Collins",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 104,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 14,
+      "ball": 1,
+      "batter": "JM Davison",
+      "bowler": "CL Hooper",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 104,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 14,
+      "ball": 2,
+      "batter": "JM Davison",
+      "bowler": "CL Hooper",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 105,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 14,
+      "ball": 3,
+      "batter": "DR Chumney",
+      "bowler": "CL Hooper",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "middle",
+      "cumulative_runs": 109,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 14,
+      "ball": 4,
+      "batter": "DR Chumney",
+      "bowler": "CL Hooper",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 109,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 14,
+      "ball": 5,
+      "batter": "DR Chumney",
+      "bowler": "CL Hooper",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 110,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 14,
+      "ball": 6,
+      "batter": "JM Davison",
+      "bowler": "CL Hooper",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 2,
+        "extras": 0,
+        "total": 2
+      },
+      "phase": "middle",
+      "cumulative_runs": 112,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 15,
+      "ball": 1,
+      "batter": "DR Chumney",
+      "bowler": "CH Gayle",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 112,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 15,
+      "ball": 2,
+      "batter": "DR Chumney",
+      "bowler": "CH Gayle",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 112,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 15,
+      "ball": 3,
+      "batter": "DR Chumney",
+      "bowler": "CH Gayle",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 112,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 15,
+      "ball": 4,
+      "batter": "DR Chumney",
+      "bowler": "CH Gayle",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 6,
+        "extras": 0,
+        "total": 6
+      },
+      "phase": "middle",
+      "cumulative_runs": 118,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 15,
+      "ball": 5,
+      "batter": "DR Chumney",
+      "bowler": "CH Gayle",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 119,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 15,
+      "ball": 6,
+      "batter": "JM Davison",
+      "bowler": "CH Gayle",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 120,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 16,
+      "ball": 1,
+      "batter": "JM Davison",
+      "bowler": "CL Hooper",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 120,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 16,
+      "ball": 2,
+      "batter": "JM Davison",
+      "bowler": "CL Hooper",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 120,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 16,
+      "ball": 3,
+      "batter": "JM Davison",
+      "bowler": "CL Hooper",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 121,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 16,
+      "ball": 4,
+      "batter": "DR Chumney",
+      "bowler": "CL Hooper",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 122,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 16,
+      "ball": 5,
+      "batter": "JM Davison",
+      "bowler": "CL Hooper",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 122,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 16,
+      "ball": 6,
+      "batter": "JM Davison",
+      "bowler": "CL Hooper",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 123,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 17,
+      "ball": 1,
+      "batter": "JM Davison",
+      "bowler": "CH Gayle",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 123,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 17,
+      "ball": 2,
+      "batter": "JM Davison",
+      "bowler": "CH Gayle",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 124,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 17,
+      "ball": 3,
+      "batter": "DR Chumney",
+      "bowler": "CH Gayle",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 125,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 17,
+      "ball": 4,
+      "batter": "JM Davison",
+      "bowler": "CH Gayle",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 6,
+        "extras": 0,
+        "total": 6
+      },
+      "phase": "middle",
+      "cumulative_runs": 131,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 17,
+      "ball": 5,
+      "batter": "JM Davison",
+      "bowler": "CH Gayle",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 131,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 17,
+      "ball": 6,
+      "batter": "JM Davison",
+      "bowler": "CH Gayle",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 131,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 18,
+      "ball": 1,
+      "batter": "DR Chumney",
+      "bowler": "M Dillon",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 131,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 18,
+      "ball": 2,
+      "batter": "DR Chumney",
+      "bowler": "M Dillon",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 131,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 18,
+      "ball": 3,
+      "batter": "DR Chumney",
+      "bowler": "M Dillon",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 132,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 18,
+      "ball": 4,
+      "batter": "JM Davison",
+      "bowler": "M Dillon",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 132,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 18,
+      "ball": 5,
+      "batter": "JM Davison",
+      "bowler": "M Dillon",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 2,
+        "extras": 0,
+        "total": 2
+      },
+      "phase": "middle",
+      "cumulative_runs": 134,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 18,
+      "ball": 6,
+      "batter": "JM Davison",
+      "bowler": "M Dillon",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 6,
+        "extras": 0,
+        "total": 6
+      },
+      "phase": "middle",
+      "cumulative_runs": 140,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 19,
+      "ball": 1,
+      "batter": "DR Chumney",
+      "bowler": "CL Hooper",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 141,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 19,
+      "ball": 2,
+      "batter": "JM Davison",
+      "bowler": "CL Hooper",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 142,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 19,
+      "ball": 3,
+      "batter": "DR Chumney",
+      "bowler": "CL Hooper",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 143,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 19,
+      "ball": 4,
+      "batter": "JM Davison",
+      "bowler": "CL Hooper",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 144,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 19,
+      "ball": 5,
+      "batter": "DR Chumney",
+      "bowler": "CL Hooper",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 145,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 19,
+      "ball": 6,
+      "batter": "JM Davison",
+      "bowler": "CL Hooper",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "middle",
+      "cumulative_runs": 149,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 1,
+      "ball": 1,
+      "batter": "JM Davison",
+      "bowler": "PT Collins",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 1,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 1,
+      "ball": 2,
+      "batter": "JM Davison",
+      "bowler": "PT Collins",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 2,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 1,
+      "ball": 3,
+      "batter": "I Maraj",
+      "bowler": "PT Collins",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 2,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 1,
+      "ball": 4,
+      "batter": "I Maraj",
+      "bowler": "PT Collins",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 2,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 1,
+      "ball": 5,
+      "batter": "I Maraj",
+      "bowler": "PT Collins",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 2,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 1,
+      "ball": 6,
+      "batter": "I Maraj",
+      "bowler": "PT Collins",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 2,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 20,
+      "ball": 1,
+      "batter": "DR Chumney",
+      "bowler": "WW Hinds",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 1,
+        "total": 1
+      },
+      "extras": {
+        "legbyes": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 150,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 20,
+      "ball": 2,
+      "batter": "JM Davison",
+      "bowler": "WW Hinds",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 3,
+        "extras": 0,
+        "total": 3
+      },
+      "phase": "middle",
+      "cumulative_runs": 153,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 20,
+      "ball": 3,
+      "batter": "DR Chumney",
+      "bowler": "WW Hinds",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 154,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 20,
+      "ball": 4,
+      "batter": "JM Davison",
+      "bowler": "WW Hinds",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 155,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 20,
+      "ball": 5,
+      "batter": "DR Chumney",
+      "bowler": "WW Hinds",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 155,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 20,
+      "ball": 6,
+      "batter": "DR Chumney",
+      "bowler": "WW Hinds",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "wickets": [
+        {
+          "player_out": "DR Chumney",
+          "fielders": [
+            {
+              "name": "CH Gayle"
+            }
+          ],
+          "kind": "caught"
+        }
+      ],
+      "phase": "middle",
+      "cumulative_runs": 155,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 21,
+      "ball": 1,
+      "batter": "JM Davison",
+      "bowler": "CL Hooper",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 155,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 21,
+      "ball": 2,
+      "batter": "JM Davison",
+      "bowler": "CL Hooper",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 155,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 21,
+      "ball": 3,
+      "batter": "JM Davison",
+      "bowler": "CL Hooper",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 156,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 21,
+      "ball": 4,
+      "batter": "IS Billcliff",
+      "bowler": "CL Hooper",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 156,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 21,
+      "ball": 5,
+      "batter": "IS Billcliff",
+      "bowler": "CL Hooper",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 156,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 21,
+      "ball": 6,
+      "batter": "IS Billcliff",
+      "bowler": "CL Hooper",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 156,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 22,
+      "ball": 1,
+      "batter": "JM Davison",
+      "bowler": "WW Hinds",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "wickets": [
+        {
+          "player_out": "JM Davison",
+          "fielders": [
+            {
+              "name": "VC Drakes"
+            }
+          ],
+          "kind": "caught"
+        }
+      ],
+      "phase": "middle",
+      "cumulative_runs": 156,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 22,
+      "ball": 2,
+      "batter": "IS Billcliff",
+      "bowler": "WW Hinds",
+      "non_striker": "N Ifill",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 156,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 22,
+      "ball": 3,
+      "batter": "IS Billcliff",
+      "bowler": "WW Hinds",
+      "non_striker": "N Ifill",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 156,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 22,
+      "ball": 4,
+      "batter": "IS Billcliff",
+      "bowler": "WW Hinds",
+      "non_striker": "N Ifill",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 157,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 22,
+      "ball": 5,
+      "batter": "N Ifill",
+      "bowler": "WW Hinds",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 157,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 22,
+      "ball": 6,
+      "batter": "N Ifill",
+      "bowler": "WW Hinds",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 158,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 23,
+      "ball": 1,
+      "batter": "N Ifill",
+      "bowler": "CL Hooper",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 158,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 23,
+      "ball": 2,
+      "batter": "N Ifill",
+      "bowler": "CL Hooper",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 158,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 23,
+      "ball": 3,
+      "batter": "N Ifill",
+      "bowler": "CL Hooper",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 158,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 23,
+      "ball": 4,
+      "batter": "N Ifill",
+      "bowler": "CL Hooper",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 158,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 23,
+      "ball": 5,
+      "batter": "N Ifill",
+      "bowler": "CL Hooper",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 159,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 23,
+      "ball": 6,
+      "batter": "IS Billcliff",
+      "bowler": "CL Hooper",
+      "non_striker": "N Ifill",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 159,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 24,
+      "ball": 1,
+      "batter": "N Ifill",
+      "bowler": "WW Hinds",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 159,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 24,
+      "ball": 2,
+      "batter": "N Ifill",
+      "bowler": "WW Hinds",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 159,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 24,
+      "ball": 3,
+      "batter": "N Ifill",
+      "bowler": "WW Hinds",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 160,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 24,
+      "ball": 4,
+      "batter": "IS Billcliff",
+      "bowler": "WW Hinds",
+      "non_striker": "N Ifill",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "middle",
+      "cumulative_runs": 164,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 24,
+      "ball": 5,
+      "batter": "IS Billcliff",
+      "bowler": "WW Hinds",
+      "non_striker": "N Ifill",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 164,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 24,
+      "ball": 6,
+      "batter": "IS Billcliff",
+      "bowler": "WW Hinds",
+      "non_striker": "N Ifill",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 164,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 25,
+      "ball": 1,
+      "batter": "N Ifill",
+      "bowler": "CL Hooper",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 164,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 25,
+      "ball": 2,
+      "batter": "N Ifill",
+      "bowler": "CL Hooper",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 164,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 25,
+      "ball": 3,
+      "batter": "N Ifill",
+      "bowler": "CL Hooper",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 164,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 25,
+      "ball": 4,
+      "batter": "N Ifill",
+      "bowler": "CL Hooper",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 164,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 25,
+      "ball": 5,
+      "batter": "N Ifill",
+      "bowler": "CL Hooper",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 164,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 25,
+      "ball": 6,
+      "batter": "N Ifill",
+      "bowler": "CL Hooper",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 164,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 26,
+      "ball": 1,
+      "batter": "IS Billcliff",
+      "bowler": "WW Hinds",
+      "non_striker": "N Ifill",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 165,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 26,
+      "ball": 2,
+      "batter": "N Ifill",
+      "bowler": "WW Hinds",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 165,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 26,
+      "ball": 3,
+      "batter": "N Ifill",
+      "bowler": "WW Hinds",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 165,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 26,
+      "ball": 4,
+      "batter": "N Ifill",
+      "bowler": "WW Hinds",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "middle",
+      "cumulative_runs": 169,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 26,
+      "ball": 5,
+      "batter": "N Ifill",
+      "bowler": "WW Hinds",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 170,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 26,
+      "ball": 6,
+      "batter": "IS Billcliff",
+      "bowler": "WW Hinds",
+      "non_striker": "N Ifill",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 171,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 27,
+      "ball": 1,
+      "batter": "IS Billcliff",
+      "bowler": "CL Hooper",
+      "non_striker": "N Ifill",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 171,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 27,
+      "ball": 2,
+      "batter": "IS Billcliff",
+      "bowler": "CL Hooper",
+      "non_striker": "N Ifill",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 172,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 27,
+      "ball": 3,
+      "batter": "N Ifill",
+      "bowler": "CL Hooper",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 172,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 27,
+      "ball": 4,
+      "batter": "N Ifill",
+      "bowler": "CL Hooper",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 1,
+        "total": 1
+      },
+      "extras": {
+        "wides": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 173,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 27,
+      "ball": 5,
+      "batter": "N Ifill",
+      "bowler": "CL Hooper",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 173,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 27,
+      "ball": 6,
+      "batter": "N Ifill",
+      "bowler": "CL Hooper",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 173,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 27,
+      "ball": 7,
+      "batter": "N Ifill",
+      "bowler": "CL Hooper",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 174,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 28,
+      "ball": 1,
+      "batter": "N Ifill",
+      "bowler": "VC Drakes",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 174,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 28,
+      "ball": 2,
+      "batter": "N Ifill",
+      "bowler": "VC Drakes",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 174,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 28,
+      "ball": 3,
+      "batter": "N Ifill",
+      "bowler": "VC Drakes",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 174,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 28,
+      "ball": 4,
+      "batter": "N Ifill",
+      "bowler": "VC Drakes",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "wickets": [
+        {
+          "player_out": "N Ifill",
+          "fielders": [
+            {
+              "name": "RD Jacobs"
+            }
+          ],
+          "kind": "caught"
+        }
+      ],
+      "phase": "middle",
+      "cumulative_runs": 174,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 28,
+      "ball": 5,
+      "batter": "JV Harris",
+      "bowler": "VC Drakes",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 174,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 28,
+      "ball": 6,
+      "batter": "JV Harris",
+      "bowler": "VC Drakes",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 174,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 29,
+      "ball": 1,
+      "batter": "IS Billcliff",
+      "bowler": "CH Gayle",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 174,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 29,
+      "ball": 2,
+      "batter": "IS Billcliff",
+      "bowler": "CH Gayle",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 174,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 29,
+      "ball": 3,
+      "batter": "IS Billcliff",
+      "bowler": "CH Gayle",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 175,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 29,
+      "ball": 4,
+      "batter": "JV Harris",
+      "bowler": "CH Gayle",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 175,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 29,
+      "ball": 5,
+      "batter": "JV Harris",
+      "bowler": "CH Gayle",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 175,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 29,
+      "ball": 6,
+      "batter": "JV Harris",
+      "bowler": "CH Gayle",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 175,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 2,
+      "ball": 1,
+      "batter": "JM Davison",
+      "bowler": "M Dillon",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 2,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 2,
+      "ball": 2,
+      "batter": "JM Davison",
+      "bowler": "M Dillon",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 3,
+        "extras": 0,
+        "total": 3
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 5,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 2,
+      "ball": 3,
+      "batter": "I Maraj",
+      "bowler": "M Dillon",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 6,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 2,
+      "ball": 4,
+      "batter": "JM Davison",
+      "bowler": "M Dillon",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 6,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 2,
+      "ball": 5,
+      "batter": "JM Davison",
+      "bowler": "M Dillon",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 6,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 2,
+      "ball": 6,
+      "batter": "JM Davison",
+      "bowler": "M Dillon",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 6,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 30,
+      "ball": 1,
+      "batter": "IS Billcliff",
+      "bowler": "VC Drakes",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 175,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 30,
+      "ball": 2,
+      "batter": "IS Billcliff",
+      "bowler": "VC Drakes",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 175,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 30,
+      "ball": 3,
+      "batter": "IS Billcliff",
+      "bowler": "VC Drakes",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 175,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 30,
+      "ball": 4,
+      "batter": "IS Billcliff",
+      "bowler": "VC Drakes",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "middle",
+      "cumulative_runs": 179,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 30,
+      "ball": 5,
+      "batter": "IS Billcliff",
+      "bowler": "VC Drakes",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 179,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 30,
+      "ball": 6,
+      "batter": "IS Billcliff",
+      "bowler": "VC Drakes",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 179,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 31,
+      "ball": 1,
+      "batter": "JV Harris",
+      "bowler": "CH Gayle",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 179,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 31,
+      "ball": 2,
+      "batter": "JV Harris",
+      "bowler": "CH Gayle",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 180,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 31,
+      "ball": 3,
+      "batter": "IS Billcliff",
+      "bowler": "CH Gayle",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 180,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 31,
+      "ball": 4,
+      "batter": "IS Billcliff",
+      "bowler": "CH Gayle",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 180,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 31,
+      "ball": 5,
+      "batter": "IS Billcliff",
+      "bowler": "CH Gayle",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 180,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 31,
+      "ball": 6,
+      "batter": "IS Billcliff",
+      "bowler": "CH Gayle",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 181,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 32,
+      "ball": 1,
+      "batter": "IS Billcliff",
+      "bowler": "VC Drakes",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 181,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 32,
+      "ball": 2,
+      "batter": "IS Billcliff",
+      "bowler": "VC Drakes",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 181,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 32,
+      "ball": 3,
+      "batter": "IS Billcliff",
+      "bowler": "VC Drakes",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 182,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 32,
+      "ball": 4,
+      "batter": "JV Harris",
+      "bowler": "VC Drakes",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 182,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 32,
+      "ball": 5,
+      "batter": "JV Harris",
+      "bowler": "VC Drakes",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 182,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 32,
+      "ball": 6,
+      "batter": "JV Harris",
+      "bowler": "VC Drakes",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 183,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 33,
+      "ball": 1,
+      "batter": "JV Harris",
+      "bowler": "CH Gayle",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 183,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 33,
+      "ball": 2,
+      "batter": "JV Harris",
+      "bowler": "CH Gayle",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 183,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 33,
+      "ball": 3,
+      "batter": "JV Harris",
+      "bowler": "CH Gayle",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 184,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 33,
+      "ball": 4,
+      "batter": "IS Billcliff",
+      "bowler": "CH Gayle",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 184,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 33,
+      "ball": 5,
+      "batter": "IS Billcliff",
+      "bowler": "CH Gayle",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 185,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 33,
+      "ball": 6,
+      "batter": "JV Harris",
+      "bowler": "CH Gayle",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 185,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 34,
+      "ball": 1,
+      "batter": "IS Billcliff",
+      "bowler": "VC Drakes",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "wickets": [
+        {
+          "player_out": "IS Billcliff",
+          "fielders": [
+            {
+              "name": "RD Jacobs"
+            }
+          ],
+          "kind": "caught"
+        }
+      ],
+      "phase": "middle",
+      "cumulative_runs": 185,
+      "cumulative_wickets": 5
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 34,
+      "ball": 2,
+      "batter": "NA de Groot",
+      "bowler": "VC Drakes",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 185,
+      "cumulative_wickets": 5
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 34,
+      "ball": 3,
+      "batter": "NA de Groot",
+      "bowler": "VC Drakes",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 185,
+      "cumulative_wickets": 5
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 34,
+      "ball": 4,
+      "batter": "NA de Groot",
+      "bowler": "VC Drakes",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 185,
+      "cumulative_wickets": 5
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 34,
+      "ball": 5,
+      "batter": "NA de Groot",
+      "bowler": "VC Drakes",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 186,
+      "cumulative_wickets": 5
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 34,
+      "ball": 6,
+      "batter": "JV Harris",
+      "bowler": "VC Drakes",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 186,
+      "cumulative_wickets": 5
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 35,
+      "ball": 1,
+      "batter": "NA de Groot",
+      "bowler": "CH Gayle",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 186,
+      "cumulative_wickets": 5
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 35,
+      "ball": 2,
+      "batter": "NA de Groot",
+      "bowler": "CH Gayle",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 186,
+      "cumulative_wickets": 5
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 35,
+      "ball": 3,
+      "batter": "NA de Groot",
+      "bowler": "CH Gayle",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 186,
+      "cumulative_wickets": 5
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 35,
+      "ball": 4,
+      "batter": "NA de Groot",
+      "bowler": "CH Gayle",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 186,
+      "cumulative_wickets": 5
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 35,
+      "ball": 5,
+      "batter": "NA de Groot",
+      "bowler": "CH Gayle",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 186,
+      "cumulative_wickets": 5
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 35,
+      "ball": 6,
+      "batter": "NA de Groot",
+      "bowler": "CH Gayle",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 186,
+      "cumulative_wickets": 5
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 36,
+      "ball": 1,
+      "batter": "JV Harris",
+      "bowler": "VC Drakes",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 187,
+      "cumulative_wickets": 5
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 36,
+      "ball": 2,
+      "batter": "NA de Groot",
+      "bowler": "VC Drakes",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 187,
+      "cumulative_wickets": 5
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 36,
+      "ball": 3,
+      "batter": "NA de Groot",
+      "bowler": "VC Drakes",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 187,
+      "cumulative_wickets": 5
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 36,
+      "ball": 4,
+      "batter": "NA de Groot",
+      "bowler": "VC Drakes",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 187,
+      "cumulative_wickets": 5
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 36,
+      "ball": 5,
+      "batter": "NA de Groot",
+      "bowler": "VC Drakes",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 187,
+      "cumulative_wickets": 5
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 36,
+      "ball": 6,
+      "batter": "NA de Groot",
+      "bowler": "VC Drakes",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 187,
+      "cumulative_wickets": 5
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 37,
+      "ball": 1,
+      "batter": "JV Harris",
+      "bowler": "CH Gayle",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 187,
+      "cumulative_wickets": 5
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 37,
+      "ball": 2,
+      "batter": "JV Harris",
+      "bowler": "CH Gayle",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 187,
+      "cumulative_wickets": 5
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 37,
+      "ball": 3,
+      "batter": "JV Harris",
+      "bowler": "CH Gayle",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 188,
+      "cumulative_wickets": 5
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 37,
+      "ball": 4,
+      "batter": "NA de Groot",
+      "bowler": "CH Gayle",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 188,
+      "cumulative_wickets": 5
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 37,
+      "ball": 5,
+      "batter": "NA de Groot",
+      "bowler": "CH Gayle",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 189,
+      "cumulative_wickets": 5
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 37,
+      "ball": 6,
+      "batter": "JV Harris",
+      "bowler": "CH Gayle",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 190,
+      "cumulative_wickets": 5
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 38,
+      "ball": 1,
+      "batter": "JV Harris",
+      "bowler": "VC Drakes",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 190,
+      "cumulative_wickets": 5
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 38,
+      "ball": 2,
+      "batter": "JV Harris",
+      "bowler": "VC Drakes",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 190,
+      "cumulative_wickets": 5
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 38,
+      "ball": 3,
+      "batter": "JV Harris",
+      "bowler": "VC Drakes",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "wickets": [
+        {
+          "player_out": "JV Harris",
+          "fielders": [
+            {
+              "name": "CL Hooper"
+            }
+          ],
+          "kind": "caught"
+        }
+      ],
+      "phase": "middle",
+      "cumulative_runs": 190,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 38,
+      "ball": 4,
+      "batter": "A Bagai",
+      "bowler": "VC Drakes",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 0,
+        "extras": 1,
+        "total": 1
+      },
+      "extras": {
+        "noballs": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 191,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 38,
+      "ball": 5,
+      "batter": "A Bagai",
+      "bowler": "VC Drakes",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 191,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 38,
+      "ball": 6,
+      "batter": "A Bagai",
+      "bowler": "VC Drakes",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 191,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 38,
+      "ball": 7,
+      "batter": "A Bagai",
+      "bowler": "VC Drakes",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 191,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 39,
+      "ball": 1,
+      "batter": "NA de Groot",
+      "bowler": "CH Gayle",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 191,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 39,
+      "ball": 2,
+      "batter": "NA de Groot",
+      "bowler": "CH Gayle",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 191,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 39,
+      "ball": 3,
+      "batter": "NA de Groot",
+      "bowler": "CH Gayle",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 191,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 39,
+      "ball": 4,
+      "batter": "NA de Groot",
+      "bowler": "CH Gayle",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 191,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 39,
+      "ball": 5,
+      "batter": "NA de Groot",
+      "bowler": "CH Gayle",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 191,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 39,
+      "ball": 6,
+      "batter": "NA de Groot",
+      "bowler": "CH Gayle",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "middle",
+      "cumulative_runs": 195,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 3,
+      "ball": 1,
+      "batter": "I Maraj",
+      "bowler": "PT Collins",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 3,
+        "extras": 0,
+        "total": 3
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 9,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 3,
+      "ball": 2,
+      "batter": "JM Davison",
+      "bowler": "PT Collins",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 9,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 3,
+      "ball": 3,
+      "batter": "JM Davison",
+      "bowler": "PT Collins",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 0,
+        "extras": 1,
+        "total": 1
+      },
+      "extras": {
+        "noballs": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 10,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 3,
+      "ball": 4,
+      "batter": "JM Davison",
+      "bowler": "PT Collins",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 10,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 3,
+      "ball": 5,
+      "batter": "JM Davison",
+      "bowler": "PT Collins",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 14,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 3,
+      "ball": 6,
+      "batter": "JM Davison",
+      "bowler": "PT Collins",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 6,
+        "extras": 0,
+        "total": 6
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 20,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 3,
+      "ball": 7,
+      "batter": "JM Davison",
+      "bowler": "PT Collins",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 21,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 40,
+      "ball": 1,
+      "batter": "A Bagai",
+      "bowler": "VC Drakes",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "death",
+      "cumulative_runs": 196,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 40,
+      "ball": 2,
+      "batter": "NA de Groot",
+      "bowler": "VC Drakes",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "death",
+      "cumulative_runs": 196,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 40,
+      "ball": 3,
+      "batter": "NA de Groot",
+      "bowler": "VC Drakes",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "death",
+      "cumulative_runs": 196,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 40,
+      "ball": 4,
+      "batter": "NA de Groot",
+      "bowler": "VC Drakes",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "death",
+      "cumulative_runs": 196,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 40,
+      "ball": 5,
+      "batter": "NA de Groot",
+      "bowler": "VC Drakes",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "death",
+      "cumulative_runs": 196,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 40,
+      "ball": 6,
+      "batter": "NA de Groot",
+      "bowler": "VC Drakes",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "death",
+      "cumulative_runs": 196,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 41,
+      "ball": 1,
+      "batter": "A Bagai",
+      "bowler": "CH Gayle",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "death",
+      "cumulative_runs": 196,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 41,
+      "ball": 2,
+      "batter": "A Bagai",
+      "bowler": "CH Gayle",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "death",
+      "cumulative_runs": 196,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 41,
+      "ball": 3,
+      "batter": "A Bagai",
+      "bowler": "CH Gayle",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "death",
+      "cumulative_runs": 197,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 41,
+      "ball": 4,
+      "batter": "NA de Groot",
+      "bowler": "CH Gayle",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "death",
+      "cumulative_runs": 197,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 41,
+      "ball": 5,
+      "batter": "NA de Groot",
+      "bowler": "CH Gayle",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "death",
+      "cumulative_runs": 197,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 41,
+      "ball": 6,
+      "batter": "NA de Groot",
+      "bowler": "CH Gayle",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "death",
+      "cumulative_runs": 197,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 42,
+      "ball": 1,
+      "batter": "A Bagai",
+      "bowler": "VC Drakes",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "wickets": [
+        {
+          "player_out": "A Bagai",
+          "fielders": [
+            {
+              "name": "RL Powell"
+            }
+          ],
+          "kind": "run out"
+        }
+      ],
+      "phase": "death",
+      "cumulative_runs": 197,
+      "cumulative_wickets": 7
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 42,
+      "ball": 2,
+      "batter": "NA de Groot",
+      "bowler": "VC Drakes",
+      "non_striker": "A Codrington",
+      "runs": {
+        "batter": 5,
+        "extras": 0,
+        "total": 5
+      },
+      "phase": "death",
+      "cumulative_runs": 202,
+      "cumulative_wickets": 7
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 42,
+      "ball": 3,
+      "batter": "A Codrington",
+      "bowler": "VC Drakes",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "wickets": [
+        {
+          "player_out": "A Codrington",
+          "fielders": [
+            {
+              "name": "RD Jacobs"
+            }
+          ],
+          "kind": "caught"
+        }
+      ],
+      "phase": "death",
+      "cumulative_runs": 202,
+      "cumulative_wickets": 8
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 42,
+      "ball": 4,
+      "batter": "BB Seebaran",
+      "bowler": "VC Drakes",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "wickets": [
+        {
+          "player_out": "BB Seebaran",
+          "kind": "lbw"
+        }
+      ],
+      "phase": "death",
+      "cumulative_runs": 202,
+      "cumulative_wickets": 9
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 42,
+      "ball": 5,
+      "batter": "D Joseph",
+      "bowler": "VC Drakes",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "wickets": [
+        {
+          "player_out": "NA de Groot",
+          "fielders": [
+            {
+              "name": "WW Hinds"
+            },
+            {
+              "name": "RD Jacobs"
+            }
+          ],
+          "kind": "run out"
+        }
+      ],
+      "phase": "death",
+      "cumulative_runs": 202,
+      "cumulative_wickets": 10
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 4,
+      "ball": 1,
+      "batter": "JM Davison",
+      "bowler": "M Dillon",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 21,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 4,
+      "ball": 2,
+      "batter": "JM Davison",
+      "bowler": "M Dillon",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 25,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 4,
+      "ball": 3,
+      "batter": "JM Davison",
+      "bowler": "M Dillon",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 29,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 4,
+      "ball": 4,
+      "batter": "JM Davison",
+      "bowler": "M Dillon",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 33,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 4,
+      "ball": 5,
+      "batter": "JM Davison",
+      "bowler": "M Dillon",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 33,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 4,
+      "ball": 6,
+      "batter": "JM Davison",
+      "bowler": "M Dillon",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 33,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 5,
+      "ball": 1,
+      "batter": "I Maraj",
+      "bowler": "PT Collins",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 33,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 5,
+      "ball": 2,
+      "batter": "I Maraj",
+      "bowler": "PT Collins",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 33,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 5,
+      "ball": 3,
+      "batter": "I Maraj",
+      "bowler": "PT Collins",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 37,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 5,
+      "ball": 4,
+      "batter": "I Maraj",
+      "bowler": "PT Collins",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 37,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 5,
+      "ball": 5,
+      "batter": "I Maraj",
+      "bowler": "PT Collins",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 37,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 5,
+      "ball": 6,
+      "batter": "I Maraj",
+      "bowler": "PT Collins",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 37,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 6,
+      "ball": 1,
+      "batter": "JM Davison",
+      "bowler": "M Dillon",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 38,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 6,
+      "ball": 2,
+      "batter": "I Maraj",
+      "bowler": "M Dillon",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 3,
+        "extras": 0,
+        "total": 3
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 41,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 6,
+      "ball": 3,
+      "batter": "JM Davison",
+      "bowler": "M Dillon",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 45,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 6,
+      "ball": 4,
+      "batter": "JM Davison",
+      "bowler": "M Dillon",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 45,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 6,
+      "ball": 5,
+      "batter": "JM Davison",
+      "bowler": "M Dillon",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 6,
+        "extras": 0,
+        "total": 6
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 51,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 6,
+      "ball": 6,
+      "batter": "JM Davison",
+      "bowler": "M Dillon",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 52,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 7,
+      "ball": 1,
+      "batter": "JM Davison",
+      "bowler": "PT Collins",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 0,
+        "extras": 1,
+        "total": 1
+      },
+      "extras": {
+        "legbyes": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 53,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 7,
+      "ball": 2,
+      "batter": "I Maraj",
+      "bowler": "PT Collins",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 53,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 7,
+      "ball": 3,
+      "batter": "I Maraj",
+      "bowler": "PT Collins",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 53,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 7,
+      "ball": 4,
+      "batter": "I Maraj",
+      "bowler": "PT Collins",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 53,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 7,
+      "ball": 5,
+      "batter": "I Maraj",
+      "bowler": "PT Collins",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 53,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 7,
+      "ball": 6,
+      "batter": "I Maraj",
+      "bowler": "PT Collins",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 53,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 8,
+      "ball": 1,
+      "batter": "JM Davison",
+      "bowler": "VC Drakes",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 53,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 8,
+      "ball": 2,
+      "batter": "JM Davison",
+      "bowler": "VC Drakes",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 6,
+        "extras": 0,
+        "total": 6
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 59,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 8,
+      "ball": 3,
+      "batter": "JM Davison",
+      "bowler": "VC Drakes",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 4,
+        "extras": 1,
+        "total": 5
+      },
+      "extras": {
+        "noballs": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 64,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 8,
+      "ball": 4,
+      "batter": "JM Davison",
+      "bowler": "VC Drakes",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 64,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 8,
+      "ball": 5,
+      "batter": "JM Davison",
+      "bowler": "VC Drakes",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 1,
+        "extras": 1,
+        "total": 2
+      },
+      "extras": {
+        "noballs": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 66,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 8,
+      "ball": 6,
+      "batter": "I Maraj",
+      "bowler": "VC Drakes",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 66,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 8,
+      "ball": 7,
+      "batter": "I Maraj",
+      "bowler": "VC Drakes",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 66,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 8,
+      "ball": 8,
+      "batter": "I Maraj",
+      "bowler": "VC Drakes",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 66,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 9,
+      "ball": 1,
+      "batter": "JM Davison",
+      "bowler": "PT Collins",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 66,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 9,
+      "ball": 2,
+      "batter": "JM Davison",
+      "bowler": "PT Collins",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 66,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 9,
+      "ball": 3,
+      "batter": "JM Davison",
+      "bowler": "PT Collins",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 2,
+        "extras": 0,
+        "total": 2
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 68,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 9,
+      "ball": 4,
+      "batter": "JM Davison",
+      "bowler": "PT Collins",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 2,
+        "extras": 0,
+        "total": 2
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 70,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 9,
+      "ball": 5,
+      "batter": "JM Davison",
+      "bowler": "PT Collins",
+      "non_striker": "I Maraj",
+      "runs": {
+        "batter": 1,
+        "extras": 1,
+        "total": 2
+      },
+      "extras": {
+        "noballs": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 72,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 9,
+      "ball": 6,
+      "batter": "I Maraj",
+      "bowler": "PT Collins",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 72,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 9,
+      "ball": 7,
+      "batter": "I Maraj",
+      "bowler": "PT Collins",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 1,
+        "total": 1
+      },
+      "extras": {
+        "wides": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 73,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 1,
+      "over": 9,
+      "ball": 8,
+      "batter": "I Maraj",
+      "bowler": "PT Collins",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 77,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 0,
+      "ball": 1,
+      "batter": "CH Gayle",
+      "bowler": "D Joseph",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 0,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 0,
+      "ball": 2,
+      "batter": "CH Gayle",
+      "bowler": "D Joseph",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 1,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 0,
+      "ball": 3,
+      "batter": "WW Hinds",
+      "bowler": "D Joseph",
+      "non_striker": "CH Gayle",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 1,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 0,
+      "ball": 4,
+      "batter": "WW Hinds",
+      "bowler": "D Joseph",
+      "non_striker": "CH Gayle",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 5,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 0,
+      "ball": 5,
+      "batter": "WW Hinds",
+      "bowler": "D Joseph",
+      "non_striker": "CH Gayle",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 5,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 0,
+      "ball": 6,
+      "batter": "WW Hinds",
+      "bowler": "D Joseph",
+      "non_striker": "CH Gayle",
+      "runs": {
+        "batter": 0,
+        "extras": 1,
+        "total": 1
+      },
+      "extras": {
+        "wides": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 6,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 0,
+      "ball": 7,
+      "batter": "WW Hinds",
+      "bowler": "D Joseph",
+      "non_striker": "CH Gayle",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 6,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 10,
+      "ball": 1,
+      "batter": "WW Hinds",
+      "bowler": "N Ifill",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "middle",
+      "cumulative_runs": 123,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 10,
+      "ball": 2,
+      "batter": "WW Hinds",
+      "bowler": "N Ifill",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "middle",
+      "cumulative_runs": 127,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 10,
+      "ball": 3,
+      "batter": "WW Hinds",
+      "bowler": "N Ifill",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 128,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 10,
+      "ball": 4,
+      "batter": "BC Lara",
+      "bowler": "N Ifill",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 128,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 10,
+      "ball": 5,
+      "batter": "BC Lara",
+      "bowler": "N Ifill",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 0,
+        "extras": 1,
+        "total": 1
+      },
+      "extras": {
+        "legbyes": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 129,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 10,
+      "ball": 6,
+      "batter": "WW Hinds",
+      "bowler": "N Ifill",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 130,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 11,
+      "ball": 1,
+      "batter": "WW Hinds",
+      "bowler": "JM Davison",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 130,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 11,
+      "ball": 2,
+      "batter": "WW Hinds",
+      "bowler": "JM Davison",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "middle",
+      "cumulative_runs": 134,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 11,
+      "ball": 3,
+      "batter": "WW Hinds",
+      "bowler": "JM Davison",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "wickets": [
+        {
+          "player_out": "WW Hinds",
+          "fielders": [
+            {
+              "name": "A Bagai"
+            }
+          ],
+          "kind": "stumped"
+        }
+      ],
+      "phase": "middle",
+      "cumulative_runs": 134,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 11,
+      "ball": 4,
+      "batter": "RR Sarwan",
+      "bowler": "JM Davison",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 134,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 11,
+      "ball": 5,
+      "batter": "RR Sarwan",
+      "bowler": "JM Davison",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 134,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 11,
+      "ball": 6,
+      "batter": "RR Sarwan",
+      "bowler": "JM Davison",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 135,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 12,
+      "ball": 1,
+      "batter": "RR Sarwan",
+      "bowler": "N Ifill",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 135,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 12,
+      "ball": 2,
+      "batter": "RR Sarwan",
+      "bowler": "N Ifill",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 135,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 12,
+      "ball": 3,
+      "batter": "RR Sarwan",
+      "bowler": "N Ifill",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 0,
+        "extras": 1,
+        "total": 1
+      },
+      "extras": {
+        "wides": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 136,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 12,
+      "ball": 4,
+      "batter": "RR Sarwan",
+      "bowler": "N Ifill",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "middle",
+      "cumulative_runs": 140,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 12,
+      "ball": 5,
+      "batter": "RR Sarwan",
+      "bowler": "N Ifill",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 140,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 12,
+      "ball": 6,
+      "batter": "RR Sarwan",
+      "bowler": "N Ifill",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 140,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 12,
+      "ball": 7,
+      "batter": "RR Sarwan",
+      "bowler": "N Ifill",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 140,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 13,
+      "ball": 1,
+      "batter": "BC Lara",
+      "bowler": "JM Davison",
+      "non_striker": "RR Sarwan",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 140,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 13,
+      "ball": 2,
+      "batter": "BC Lara",
+      "bowler": "JM Davison",
+      "non_striker": "RR Sarwan",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 140,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 13,
+      "ball": 3,
+      "batter": "BC Lara",
+      "bowler": "JM Davison",
+      "non_striker": "RR Sarwan",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "middle",
+      "cumulative_runs": 144,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 13,
+      "ball": 4,
+      "batter": "BC Lara",
+      "bowler": "JM Davison",
+      "non_striker": "RR Sarwan",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 144,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 13,
+      "ball": 5,
+      "batter": "BC Lara",
+      "bowler": "JM Davison",
+      "non_striker": "RR Sarwan",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "middle",
+      "cumulative_runs": 148,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 13,
+      "ball": 6,
+      "batter": "BC Lara",
+      "bowler": "JM Davison",
+      "non_striker": "RR Sarwan",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 149,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 14,
+      "ball": 1,
+      "batter": "BC Lara",
+      "bowler": "N Ifill",
+      "non_striker": "RR Sarwan",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 150,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 14,
+      "ball": 2,
+      "batter": "RR Sarwan",
+      "bowler": "N Ifill",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "middle",
+      "cumulative_runs": 154,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 14,
+      "ball": 3,
+      "batter": "RR Sarwan",
+      "bowler": "N Ifill",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 154,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 14,
+      "ball": 4,
+      "batter": "RR Sarwan",
+      "bowler": "N Ifill",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 0,
+        "extras": 1,
+        "total": 1
+      },
+      "extras": {
+        "wides": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 155,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 14,
+      "ball": 5,
+      "batter": "RR Sarwan",
+      "bowler": "N Ifill",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "middle",
+      "cumulative_runs": 159,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 14,
+      "ball": 6,
+      "batter": "RR Sarwan",
+      "bowler": "N Ifill",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "middle",
+      "cumulative_runs": 163,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 14,
+      "ball": 7,
+      "batter": "RR Sarwan",
+      "bowler": "N Ifill",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 163,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 15,
+      "ball": 1,
+      "batter": "BC Lara",
+      "bowler": "JM Davison",
+      "non_striker": "RR Sarwan",
+      "runs": {
+        "batter": 2,
+        "extras": 0,
+        "total": 2
+      },
+      "phase": "middle",
+      "cumulative_runs": 165,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 15,
+      "ball": 2,
+      "batter": "BC Lara",
+      "bowler": "JM Davison",
+      "non_striker": "RR Sarwan",
+      "runs": {
+        "batter": 0,
+        "extras": 1,
+        "total": 1
+      },
+      "extras": {
+        "wides": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 166,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 15,
+      "ball": 3,
+      "batter": "BC Lara",
+      "bowler": "JM Davison",
+      "non_striker": "RR Sarwan",
+      "runs": {
+        "batter": 2,
+        "extras": 0,
+        "total": 2
+      },
+      "phase": "middle",
+      "cumulative_runs": 168,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 15,
+      "ball": 4,
+      "batter": "BC Lara",
+      "bowler": "JM Davison",
+      "non_striker": "RR Sarwan",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 168,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 15,
+      "ball": 5,
+      "batter": "BC Lara",
+      "bowler": "JM Davison",
+      "non_striker": "RR Sarwan",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 169,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 15,
+      "ball": 6,
+      "batter": "RR Sarwan",
+      "bowler": "JM Davison",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 169,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 15,
+      "ball": 7,
+      "batter": "RR Sarwan",
+      "bowler": "JM Davison",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 169,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 16,
+      "ball": 1,
+      "batter": "BC Lara",
+      "bowler": "NA de Groot",
+      "non_striker": "RR Sarwan",
+      "runs": {
+        "batter": 6,
+        "extras": 0,
+        "total": 6
+      },
+      "phase": "middle",
+      "cumulative_runs": 175,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 16,
+      "ball": 2,
+      "batter": "BC Lara",
+      "bowler": "NA de Groot",
+      "non_striker": "RR Sarwan",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 176,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 16,
+      "ball": 3,
+      "batter": "RR Sarwan",
+      "bowler": "NA de Groot",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 176,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 16,
+      "ball": 4,
+      "batter": "RR Sarwan",
+      "bowler": "NA de Groot",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 177,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 16,
+      "ball": 5,
+      "batter": "BC Lara",
+      "bowler": "NA de Groot",
+      "non_striker": "RR Sarwan",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "wickets": [
+        {
+          "player_out": "BC Lara",
+          "kind": "bowled"
+        }
+      ],
+      "phase": "middle",
+      "cumulative_runs": 177,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 16,
+      "ball": 6,
+      "batter": "CL Hooper",
+      "bowler": "NA de Groot",
+      "non_striker": "RR Sarwan",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 177,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 17,
+      "ball": 1,
+      "batter": "RR Sarwan",
+      "bowler": "JM Davison",
+      "non_striker": "CL Hooper",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "middle",
+      "cumulative_runs": 181,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 17,
+      "ball": 2,
+      "batter": "RR Sarwan",
+      "bowler": "JM Davison",
+      "non_striker": "CL Hooper",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 181,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 17,
+      "ball": 3,
+      "batter": "RR Sarwan",
+      "bowler": "JM Davison",
+      "non_striker": "CL Hooper",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 181,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 17,
+      "ball": 4,
+      "batter": "RR Sarwan",
+      "bowler": "JM Davison",
+      "non_striker": "CL Hooper",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 182,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 17,
+      "ball": 5,
+      "batter": "CL Hooper",
+      "bowler": "JM Davison",
+      "non_striker": "RR Sarwan",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 182,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 17,
+      "ball": 6,
+      "batter": "CL Hooper",
+      "bowler": "JM Davison",
+      "non_striker": "RR Sarwan",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 182,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 18,
+      "ball": 1,
+      "batter": "RR Sarwan",
+      "bowler": "NA de Groot",
+      "non_striker": "CL Hooper",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 182,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 18,
+      "ball": 2,
+      "batter": "RR Sarwan",
+      "bowler": "NA de Groot",
+      "non_striker": "CL Hooper",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 183,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 18,
+      "ball": 3,
+      "batter": "CL Hooper",
+      "bowler": "NA de Groot",
+      "non_striker": "RR Sarwan",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 184,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 18,
+      "ball": 4,
+      "batter": "RR Sarwan",
+      "bowler": "NA de Groot",
+      "non_striker": "CL Hooper",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 185,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 18,
+      "ball": 5,
+      "batter": "CL Hooper",
+      "bowler": "NA de Groot",
+      "non_striker": "RR Sarwan",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 186,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 18,
+      "ball": 6,
+      "batter": "RR Sarwan",
+      "bowler": "NA de Groot",
+      "non_striker": "CL Hooper",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "middle",
+      "cumulative_runs": 190,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 19,
+      "ball": 1,
+      "batter": "CL Hooper",
+      "bowler": "JM Davison",
+      "non_striker": "RR Sarwan",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 191,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 19,
+      "ball": 2,
+      "batter": "RR Sarwan",
+      "bowler": "JM Davison",
+      "non_striker": "CL Hooper",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "middle",
+      "cumulative_runs": 195,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 19,
+      "ball": 3,
+      "batter": "RR Sarwan",
+      "bowler": "JM Davison",
+      "non_striker": "CL Hooper",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 195,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 19,
+      "ball": 4,
+      "batter": "RR Sarwan",
+      "bowler": "JM Davison",
+      "non_striker": "CL Hooper",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "middle",
+      "cumulative_runs": 199,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 19,
+      "ball": 5,
+      "batter": "RR Sarwan",
+      "bowler": "JM Davison",
+      "non_striker": "CL Hooper",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 200,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 19,
+      "ball": 6,
+      "batter": "CL Hooper",
+      "bowler": "JM Davison",
+      "non_striker": "RR Sarwan",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 201,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 1,
+      "ball": 1,
+      "batter": "CH Gayle",
+      "bowler": "A Codrington",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 6,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 1,
+      "ball": 2,
+      "batter": "CH Gayle",
+      "bowler": "A Codrington",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 6,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 1,
+      "ball": 3,
+      "batter": "CH Gayle",
+      "bowler": "A Codrington",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 0,
+        "extras": 1,
+        "total": 1
+      },
+      "extras": {
+        "wides": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 7,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 1,
+      "ball": 4,
+      "batter": "CH Gayle",
+      "bowler": "A Codrington",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 7,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 1,
+      "ball": 5,
+      "batter": "CH Gayle",
+      "bowler": "A Codrington",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 11,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 1,
+      "ball": 6,
+      "batter": "CH Gayle",
+      "bowler": "A Codrington",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 11,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 1,
+      "ball": 7,
+      "batter": "CH Gayle",
+      "bowler": "A Codrington",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 11,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 20,
+      "ball": 1,
+      "batter": "CL Hooper",
+      "bowler": "NA de Groot",
+      "non_striker": "RR Sarwan",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 202,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 20,
+      "ball": 2,
+      "batter": "RR Sarwan",
+      "bowler": "NA de Groot",
+      "non_striker": "CL Hooper",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 202,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 20,
+      "ball": 3,
+      "batter": "RR Sarwan",
+      "bowler": "NA de Groot",
+      "non_striker": "CL Hooper",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "middle",
+      "cumulative_runs": 206,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 2,
+      "ball": 1,
+      "batter": "WW Hinds",
+      "bowler": "D Joseph",
+      "non_striker": "CH Gayle",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 11,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 2,
+      "ball": 2,
+      "batter": "WW Hinds",
+      "bowler": "D Joseph",
+      "non_striker": "CH Gayle",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 11,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 2,
+      "ball": 3,
+      "batter": "WW Hinds",
+      "bowler": "D Joseph",
+      "non_striker": "CH Gayle",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 11,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 2,
+      "ball": 4,
+      "batter": "WW Hinds",
+      "bowler": "D Joseph",
+      "non_striker": "CH Gayle",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 15,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 2,
+      "ball": 5,
+      "batter": "WW Hinds",
+      "bowler": "D Joseph",
+      "non_striker": "CH Gayle",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 19,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 2,
+      "ball": 6,
+      "batter": "WW Hinds",
+      "bowler": "D Joseph",
+      "non_striker": "CH Gayle",
+      "runs": {
+        "batter": 6,
+        "extras": 0,
+        "total": 6
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 25,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 3,
+      "ball": 1,
+      "batter": "CH Gayle",
+      "bowler": "A Codrington",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 25,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 3,
+      "ball": 2,
+      "batter": "CH Gayle",
+      "bowler": "A Codrington",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 25,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 3,
+      "ball": 3,
+      "batter": "CH Gayle",
+      "bowler": "A Codrington",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 26,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 3,
+      "ball": 4,
+      "batter": "WW Hinds",
+      "bowler": "A Codrington",
+      "non_striker": "CH Gayle",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 26,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 3,
+      "ball": 5,
+      "batter": "WW Hinds",
+      "bowler": "A Codrington",
+      "non_striker": "CH Gayle",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 26,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 3,
+      "ball": 6,
+      "batter": "WW Hinds",
+      "bowler": "A Codrington",
+      "non_striker": "CH Gayle",
+      "runs": {
+        "batter": 0,
+        "extras": 4,
+        "total": 4
+      },
+      "extras": {
+        "legbyes": 4
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 30,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 4,
+      "ball": 1,
+      "batter": "CH Gayle",
+      "bowler": "D Joseph",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 2,
+        "extras": 0,
+        "total": 2
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 32,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 4,
+      "ball": 2,
+      "batter": "CH Gayle",
+      "bowler": "D Joseph",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "wickets": [
+        {
+          "player_out": "CH Gayle",
+          "fielders": [
+            {
+              "name": "A Bagai"
+            }
+          ],
+          "kind": "caught"
+        }
+      ],
+      "phase": "powerplay",
+      "cumulative_runs": 32,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 4,
+      "ball": 3,
+      "batter": "BC Lara",
+      "bowler": "D Joseph",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 32,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 4,
+      "ball": 4,
+      "batter": "BC Lara",
+      "bowler": "D Joseph",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 32,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 4,
+      "ball": 5,
+      "batter": "BC Lara",
+      "bowler": "D Joseph",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 36,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 4,
+      "ball": 6,
+      "batter": "BC Lara",
+      "bowler": "D Joseph",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 36,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 5,
+      "ball": 1,
+      "batter": "WW Hinds",
+      "bowler": "A Codrington",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 40,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 5,
+      "ball": 2,
+      "batter": "WW Hinds",
+      "bowler": "A Codrington",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 44,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 5,
+      "ball": 3,
+      "batter": "WW Hinds",
+      "bowler": "A Codrington",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 45,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 5,
+      "ball": 4,
+      "batter": "BC Lara",
+      "bowler": "A Codrington",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 45,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 5,
+      "ball": 5,
+      "batter": "BC Lara",
+      "bowler": "A Codrington",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 45,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 5,
+      "ball": 6,
+      "batter": "BC Lara",
+      "bowler": "A Codrington",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 45,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 6,
+      "ball": 1,
+      "batter": "WW Hinds",
+      "bowler": "D Joseph",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 46,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 6,
+      "ball": 2,
+      "batter": "BC Lara",
+      "bowler": "D Joseph",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 50,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 6,
+      "ball": 3,
+      "batter": "BC Lara",
+      "bowler": "D Joseph",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 51,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 6,
+      "ball": 4,
+      "batter": "WW Hinds",
+      "bowler": "D Joseph",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 6,
+        "extras": 0,
+        "total": 6
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 57,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 6,
+      "ball": 5,
+      "batter": "WW Hinds",
+      "bowler": "D Joseph",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 61,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 6,
+      "ball": 6,
+      "batter": "WW Hinds",
+      "bowler": "D Joseph",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 0,
+        "extras": 1,
+        "total": 1
+      },
+      "extras": {
+        "wides": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 62,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 6,
+      "ball": 7,
+      "batter": "WW Hinds",
+      "bowler": "D Joseph",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 66,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 7,
+      "ball": 1,
+      "batter": "BC Lara",
+      "bowler": "A Codrington",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 66,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 7,
+      "ball": 2,
+      "batter": "BC Lara",
+      "bowler": "A Codrington",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 66,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 7,
+      "ball": 3,
+      "batter": "BC Lara",
+      "bowler": "A Codrington",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 66,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 7,
+      "ball": 4,
+      "batter": "BC Lara",
+      "bowler": "A Codrington",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 70,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 7,
+      "ball": 5,
+      "batter": "BC Lara",
+      "bowler": "A Codrington",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 6,
+        "extras": 0,
+        "total": 6
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 76,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 7,
+      "ball": 6,
+      "batter": "BC Lara",
+      "bowler": "A Codrington",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 76,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 8,
+      "ball": 1,
+      "batter": "WW Hinds",
+      "bowler": "N Ifill",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 0,
+        "extras": 1,
+        "total": 1
+      },
+      "extras": {
+        "wides": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 77,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 8,
+      "ball": 2,
+      "batter": "WW Hinds",
+      "bowler": "N Ifill",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 77,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 8,
+      "ball": 3,
+      "batter": "WW Hinds",
+      "bowler": "N Ifill",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 78,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 8,
+      "ball": 4,
+      "batter": "BC Lara",
+      "bowler": "N Ifill",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 79,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 8,
+      "ball": 5,
+      "batter": "WW Hinds",
+      "bowler": "N Ifill",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 6,
+        "extras": 0,
+        "total": 6
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 85,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 8,
+      "ball": 6,
+      "batter": "WW Hinds",
+      "bowler": "N Ifill",
+      "non_striker": "BC Lara",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 86,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 8,
+      "ball": 7,
+      "batter": "BC Lara",
+      "bowler": "N Ifill",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 4,
+        "extras": 1,
+        "total": 5
+      },
+      "extras": {
+        "noballs": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 91,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 8,
+      "ball": 8,
+      "batter": "BC Lara",
+      "bowler": "N Ifill",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 0,
+        "extras": 1,
+        "total": 1
+      },
+      "extras": {
+        "wides": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 92,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 8,
+      "ball": 9,
+      "batter": "BC Lara",
+      "bowler": "N Ifill",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 93,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 9,
+      "ball": 1,
+      "batter": "BC Lara",
+      "bowler": "BB Seebaran",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 97,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 9,
+      "ball": 2,
+      "batter": "BC Lara",
+      "bowler": "BB Seebaran",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 6,
+        "extras": 0,
+        "total": 6
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 103,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 9,
+      "ball": 3,
+      "batter": "BC Lara",
+      "bowler": "BB Seebaran",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 107,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 9,
+      "ball": 4,
+      "batter": "BC Lara",
+      "bowler": "BB Seebaran",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 6,
+        "extras": 0,
+        "total": 6
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 113,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 9,
+      "ball": 5,
+      "batter": "BC Lara",
+      "bowler": "BB Seebaran",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 6,
+        "extras": 0,
+        "total": 6
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 119,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_west_indies_20030223_supersport_park,_cen",
+      "innings": 2,
+      "over": 9,
+      "ball": 6,
+      "batter": "BC Lara",
+      "bowler": "BB Seebaran",
+      "non_striker": "WW Hinds",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 119,
+      "cumulative_wickets": 1
+    }
+  ],
+  "partnerships": [
+    {
+      "wicket": 1,
+      "batters": [
+        "I Maraj",
+        "JM Davison"
+      ],
+      "runs": 96,
+      "balls": 77,
+      "batter1_contribution": 16,
+      "batter2_contribution": 72,
+      "overs_range": [
+        0,
+        11
+      ]
+    },
+    {
+      "wicket": 10,
+      "batters": [
+        "D Joseph",
+        "NA de Groot"
+      ],
+      "runs": 0,
+      "balls": 1,
+      "batter1_contribution": 0,
+      "batter2_contribution": 0,
+      "overs_range": [
+        42,
+        42
+      ]
+    },
+    {
+      "wicket": 2,
+      "batters": [
+        "DR Chumney",
+        "JM Davison"
+      ],
+      "runs": 59,
+      "balls": 54,
+      "batter1_contribution": 19,
+      "batter2_contribution": 38,
+      "overs_range": [
+        12,
+        20
+      ]
+    },
+    {
+      "wicket": 3,
+      "batters": [
+        "IS Billcliff",
+        "JM Davison"
+      ],
+      "runs": 1,
+      "balls": 7,
+      "batter1_contribution": 0,
+      "batter2_contribution": 1,
+      "overs_range": [
+        21,
+        22
+      ]
+    },
+    {
+      "wicket": 4,
+      "batters": [
+        "IS Billcliff",
+        "N Ifill"
+      ],
+      "runs": 18,
+      "balls": 39,
+      "batter1_contribution": 8,
+      "batter2_contribution": 9,
+      "overs_range": [
+        22,
+        28
+      ]
+    },
+    {
+      "wicket": 5,
+      "batters": [
+        "IS Billcliff",
+        "JV Harris"
+      ],
+      "runs": 11,
+      "balls": 33,
+      "batter1_contribution": 8,
+      "batter2_contribution": 3,
+      "overs_range": [
+        28,
+        34
+      ]
+    },
+    {
+      "wicket": 6,
+      "batters": [
+        "JV Harris",
+        "NA de Groot"
+      ],
+      "runs": 5,
+      "balls": 26,
+      "batter1_contribution": 3,
+      "batter2_contribution": 2,
+      "overs_range": [
+        34,
+        38
+      ]
+    },
+    {
+      "wicket": 7,
+      "batters": [
+        "A Bagai",
+        "NA de Groot"
+      ],
+      "runs": 7,
+      "balls": 23,
+      "batter1_contribution": 2,
+      "batter2_contribution": 4,
+      "overs_range": [
+        38,
+        42
+      ]
+    },
+    {
+      "wicket": 8,
+      "batters": [
+        "A Codrington",
+        "NA de Groot"
+      ],
+      "runs": 5,
+      "balls": 2,
+      "batter1_contribution": 0,
+      "batter2_contribution": 5,
+      "overs_range": [
+        42,
+        42
+      ]
+    },
+    {
+      "wicket": 9,
+      "batters": [
+        "BB Seebaran",
+        "NA de Groot"
+      ],
+      "runs": 0,
+      "balls": 1,
+      "batter1_contribution": 0,
+      "batter2_contribution": 0,
+      "overs_range": [
+        42,
+        42
+      ]
+    },
+    {
+      "wicket": 1,
+      "batters": [
+        "CH Gayle",
+        "WW Hinds"
+      ],
+      "runs": 32,
+      "balls": 26,
+      "batter1_contribution": 8,
+      "batter2_contribution": 18,
+      "overs_range": [
+        0,
+        4
+      ]
+    },
+    {
+      "wicket": 2,
+      "batters": [
+        "BC Lara",
+        "WW Hinds"
+      ],
+      "runs": 102,
+      "balls": 44,
+      "batter1_contribution": 51,
+      "batter2_contribution": 46,
+      "overs_range": [
+        4,
+        11
+      ]
+    },
+    {
+      "wicket": 3,
+      "batters": [
+        "BC Lara",
+        "RR Sarwan"
+      ],
+      "runs": 43,
+      "balls": 32,
+      "batter1_contribution": 22,
+      "batter2_contribution": 18,
+      "overs_range": [
+        11,
+        16
+      ]
+    },
+    {
+      "wicket": 4,
+      "batters": [
+        "CL Hooper",
+        "RR Sarwan"
+      ],
+      "runs": 29,
+      "balls": 22,
+      "batter1_contribution": 5,
+      "batter2_contribution": 24,
+      "overs_range": [
+        16,
+        20
+      ]
+    }
+  ]
+}

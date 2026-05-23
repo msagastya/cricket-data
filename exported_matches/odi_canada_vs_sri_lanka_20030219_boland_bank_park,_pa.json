@@ -1,0 +1,3372 @@
+{
+  "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+  "info": {
+    "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+    "match_number": 1958,
+    "dates": [
+      "2003-02-19T00:00:00.000Z"
+    ],
+    "season": "2002/03",
+    "venue": "Boland Bank Park, Paarl",
+    "city": "Paarl",
+    "event": {
+      "name": "ICC World Cup",
+      "match_number": 18,
+      "group": "B"
+    },
+    "match_type": "ODI",
+    "gender": "male",
+    "overs": 50,
+    "balls_per_over": 6,
+    "teams": [
+      "Canada",
+      "Sri Lanka"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Sri Lanka"
+    },
+    "umpires": [
+      "DR Shepherd",
+      "NA Mallender"
+    ],
+    "referee": "Wasim Raja",
+    "tv_umpire": "KC Barbour",
+    "outcome": {
+      "winner": "Sri Lanka",
+      "by": {
+        "wickets": 9
+      }
+    },
+    "player_of_match": [
+      "RAP Nissanka"
+    ],
+    "players": {
+      "Canada": [
+        "DR Chumney",
+        "JM Davison",
+        "AF Sattaur",
+        "IS Billcliff",
+        "NA de Groot",
+        "JV Harris",
+        "I Maraj",
+        "A Bagai",
+        "S Thuraisingam",
+        "A Codrington",
+        "BB Seebaran"
+      ],
+      "Sri Lanka": [
+        "MS Atapattu",
+        "ST Jayasuriya",
+        "KC Sangakkara",
+        "PA de Silva",
+        "DPMD Jayawardene",
+        "HP Tillakaratne",
+        "RP Arnold",
+        "WPUJC Vaas",
+        "M Muralitharan",
+        "CRD Fernando",
+        "RAP Nissanka"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Bagai": "112959b2",
+        "A Codrington": "9cb022df",
+        "AF Sattaur": "ca4db40e",
+        "BB Seebaran": "fc54ef7a",
+        "CRD Fernando": "342d8ade",
+        "DPMD Jayawardene": "d18f9182",
+        "DR Chumney": "1f3ad23f",
+        "DR Shepherd": "8a578048",
+        "HP Tillakaratne": "00ea9791",
+        "I Maraj": "2d783277",
+        "IS Billcliff": "1fb2f362",
+        "JM Davison": "5471024e",
+        "JV Harris": "d1ac815a",
+        "KC Barbour": "4359f89a",
+        "KC Sangakkara": "6b71e6cf",
+        "M Muralitharan": "4ba44e19",
+        "MS Atapattu": "8a686d30",
+        "NA Mallender": "3b5dfcd4",
+        "NA de Groot": "15d1b59e",
+        "PA de Silva": "34ff9e07",
+        "RAP Nissanka": "6cc006ef",
+        "RP Arnold": "cccdde80",
+        "S Thuraisingam": "28ed9134",
+        "ST Jayasuriya": "f233bbb4",
+        "WPUJC Vaas": "bcce309e",
+        "Wasim Raja": "d8bce357"
+      }
+    },
+    "created": {
+      "_seconds": 1764253838,
+      "_nanoseconds": 981000000
+    },
+    "updated": {
+      "_seconds": 1764253838,
+      "_nanoseconds": 981000000
+    }
+  },
+  "innings": [
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "team": "Canada",
+      "total_runs": 36,
+      "total_wickets": 10,
+      "overs": 18.4,
+      "batters": [
+        {
+          "player": "DR Chumney",
+          "runs": 9,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "caught",
+            "bowler": "WPUJC Vaas",
+            "fielders": [
+              "KC Sangakkara"
+            ]
+          },
+          "strike_rate": 36,
+          "position": 1
+        },
+        {
+          "player": "JM Davison",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "caught",
+            "bowler": "RAP Nissanka",
+            "fielders": [
+              "KC Sangakkara"
+            ]
+          },
+          "strike_rate": 0,
+          "position": 2
+        },
+        {
+          "player": "AF Sattaur",
+          "runs": 0,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "lbw",
+            "bowler": "WPUJC Vaas"
+          },
+          "strike_rate": 0,
+          "position": 3
+        },
+        {
+          "player": "IS Billcliff",
+          "runs": 1,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "lbw",
+            "bowler": "WPUJC Vaas"
+          },
+          "strike_rate": 11.11111111111111,
+          "position": 4
+        },
+        {
+          "player": "NA de Groot",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "lbw",
+            "bowler": "RAP Nissanka"
+          },
+          "strike_rate": 0,
+          "position": 5
+        },
+        {
+          "player": "JV Harris",
+          "runs": 9,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "hit wicket",
+            "bowler": "RAP Nissanka"
+          },
+          "strike_rate": 69.23076923076923,
+          "position": 6
+        },
+        {
+          "player": "I Maraj",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "lbw",
+            "bowler": "RAP Nissanka"
+          },
+          "strike_rate": 0,
+          "position": 7
+        },
+        {
+          "player": "A Bagai",
+          "runs": 6,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "caught",
+            "bowler": "CRD Fernando",
+            "fielders": [
+              "DPMD Jayawardene"
+            ]
+          },
+          "strike_rate": 24,
+          "position": 8
+        },
+        {
+          "player": "S Thuraisingam",
+          "runs": 6,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "lbw",
+            "bowler": "CRD Fernando"
+          },
+          "strike_rate": 40,
+          "position": 9
+        },
+        {
+          "player": "A Codrington",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "bowled",
+            "bowler": "M Muralitharan"
+          },
+          "strike_rate": 0,
+          "position": 10
+        }
+      ],
+      "bowlers": [
+        {
+          "player": "WPUJC Vaas",
+          "balls": 42,
+          "runs": 15,
+          "wickets": 3,
+          "wides": 0,
+          "noballs": 0,
+          "dots": 36,
+          "fours": 3,
+          "sixes": 0,
+          "maidens": 0,
+          "overs": 7,
+          "economy": 2.142857142857143
+        },
+        {
+          "player": "RAP Nissanka",
+          "balls": 43,
+          "runs": 13,
+          "wickets": 4,
+          "wides": 1,
+          "noballs": 1,
+          "dots": 37,
+          "fours": 2,
+          "sixes": 0,
+          "maidens": 0,
+          "overs": 7.1,
+          "economy": 1.813953488372093
+        },
+        {
+          "player": "M Muralitharan",
+          "balls": 16,
+          "runs": 3,
+          "wickets": 1,
+          "wides": 0,
+          "noballs": 0,
+          "dots": 13,
+          "fours": 0,
+          "sixes": 0,
+          "maidens": 0,
+          "overs": 2.4,
+          "economy": 1.125
+        },
+        {
+          "player": "CRD Fernando",
+          "balls": 12,
+          "runs": 5,
+          "wickets": 2,
+          "wides": 1,
+          "noballs": 0,
+          "dots": 9,
+          "fours": 0,
+          "sixes": 0,
+          "maidens": 0,
+          "overs": 2,
+          "economy": 2.5
+        }
+      ],
+      "extras": {
+        "total": 5,
+        "wides": 2,
+        "noballs": 1,
+        "byes": 0,
+        "legbyes": 2,
+        "penalty": 0
+      },
+      "fow": [
+        {
+          "runs": 0,
+          "wickets": 1,
+          "batter": "JM Davison",
+          "over": 1
+        },
+        {
+          "runs": 6,
+          "wickets": 2,
+          "batter": "AF Sattaur",
+          "over": 4
+        },
+        {
+          "runs": 11,
+          "wickets": 3,
+          "batter": "DR Chumney",
+          "over": 6
+        },
+        {
+          "runs": 12,
+          "wickets": 4,
+          "batter": "IS Billcliff",
+          "over": 8
+        },
+        {
+          "runs": 12,
+          "wickets": 5,
+          "batter": "NA de Groot",
+          "over": 9
+        },
+        {
+          "runs": 12,
+          "wickets": 6,
+          "batter": "I Maraj",
+          "over": 9
+        },
+        {
+          "runs": 21,
+          "wickets": 7,
+          "batter": "JV Harris",
+          "over": 11
+        },
+        {
+          "runs": 31,
+          "wickets": 8,
+          "batter": "S Thuraisingam",
+          "over": 15
+        },
+        {
+          "runs": 36,
+          "wickets": 9,
+          "batter": "A Bagai",
+          "over": 17
+        },
+        {
+          "runs": 36,
+          "wickets": 10,
+          "batter": "A Codrington",
+          "over": 18
+        }
+      ],
+      "partnerships": [
+        {
+          "wicket": 1,
+          "batters": [
+            "DR Chumney",
+            "JM Davison"
+          ],
+          "runs": 0,
+          "balls": 10,
+          "batter1_contribution": 0,
+          "batter2_contribution": 0,
+          "overs_range": [
+            0,
+            1
+          ]
+        },
+        {
+          "wicket": 2,
+          "batters": [
+            "AF Sattaur",
+            "DR Chumney"
+          ],
+          "runs": 6,
+          "balls": 19,
+          "batter1_contribution": 0,
+          "batter2_contribution": 4,
+          "overs_range": [
+            1,
+            4
+          ]
+        },
+        {
+          "wicket": 3,
+          "batters": [
+            "DR Chumney",
+            "IS Billcliff"
+          ],
+          "runs": 5,
+          "balls": 13,
+          "batter1_contribution": 5,
+          "batter2_contribution": 0,
+          "overs_range": [
+            4,
+            6
+          ]
+        },
+        {
+          "wicket": 4,
+          "batters": [
+            "IS Billcliff",
+            "NA de Groot"
+          ],
+          "runs": 1,
+          "balls": 7,
+          "batter1_contribution": 1,
+          "batter2_contribution": 0,
+          "overs_range": [
+            7,
+            8
+          ]
+        },
+        {
+          "wicket": 5,
+          "batters": [
+            "JV Harris",
+            "NA de Groot"
+          ],
+          "runs": 0,
+          "balls": 6,
+          "batter1_contribution": 0,
+          "batter2_contribution": 0,
+          "overs_range": [
+            8,
+            9
+          ]
+        },
+        {
+          "wicket": 6,
+          "batters": [
+            "I Maraj",
+            "JV Harris"
+          ],
+          "runs": 0,
+          "balls": 1,
+          "batter1_contribution": 0,
+          "batter2_contribution": 0,
+          "overs_range": [
+            9,
+            9
+          ]
+        },
+        {
+          "wicket": 7,
+          "batters": [
+            "A Bagai",
+            "JV Harris"
+          ],
+          "runs": 9,
+          "balls": 12,
+          "batter1_contribution": 0,
+          "batter2_contribution": 9,
+          "overs_range": [
+            9,
+            11
+          ]
+        },
+        {
+          "wicket": 8,
+          "batters": [
+            "A Bagai",
+            "S Thuraisingam"
+          ],
+          "runs": 10,
+          "balls": 24,
+          "batter1_contribution": 2,
+          "batter2_contribution": 6,
+          "overs_range": [
+            11,
+            15
+          ]
+        },
+        {
+          "wicket": 9,
+          "batters": [
+            "A Bagai",
+            "A Codrington"
+          ],
+          "runs": 5,
+          "balls": 17,
+          "batter1_contribution": 4,
+          "batter2_contribution": 0,
+          "overs_range": [
+            15,
+            17
+          ]
+        },
+        {
+          "wicket": 10,
+          "batters": [
+            "A Codrington",
+            "BB Seebaran"
+          ],
+          "runs": 0,
+          "balls": 4,
+          "batter1_contribution": 0,
+          "batter2_contribution": 0,
+          "overs_range": [
+            18,
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 2,
+      "team": "Sri Lanka",
+      "total_runs": 37,
+      "total_wickets": 1,
+      "overs": 4.4,
+      "batters": [
+        {
+          "player": "MS Atapattu",
+          "runs": 24,
+          "balls": 14,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 171.42857142857142,
+          "position": 1
+        },
+        {
+          "player": "ST Jayasuriya",
+          "runs": 9,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "lbw",
+            "bowler": "S Thuraisingam"
+          },
+          "strike_rate": 90,
+          "position": 2
+        },
+        {
+          "player": "KC Sangakkara",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100,
+          "position": 3
+        }
+      ],
+      "bowlers": [
+        {
+          "player": "S Thuraisingam",
+          "balls": 16,
+          "runs": 22,
+          "wickets": 1,
+          "wides": 0,
+          "noballs": 0,
+          "dots": 8,
+          "fours": 4,
+          "sixes": 0,
+          "maidens": 0,
+          "overs": 2.4,
+          "economy": 8.25
+        },
+        {
+          "player": "JM Davison",
+          "balls": 12,
+          "runs": 15,
+          "wickets": 0,
+          "wides": 0,
+          "noballs": 0,
+          "dots": 6,
+          "fours": 2,
+          "sixes": 0,
+          "maidens": 0,
+          "overs": 2,
+          "economy": 7.5
+        }
+      ],
+      "extras": {
+        "total": 0,
+        "wides": 0,
+        "noballs": 0,
+        "byes": 0,
+        "legbyes": 0,
+        "penalty": 0
+      },
+      "fow": [
+        {
+          "runs": 23,
+          "wickets": 1,
+          "batter": "ST Jayasuriya",
+          "over": 2
+        }
+      ],
+      "partnerships": [
+        {
+          "wicket": 1,
+          "batters": [
+            "MS Atapattu",
+            "ST Jayasuriya"
+          ],
+          "runs": 23,
+          "balls": 18,
+          "batter1_contribution": 14,
+          "batter2_contribution": 9,
+          "overs_range": [
+            0,
+            2
+          ]
+        },
+        {
+          "wicket": 2,
+          "batters": [
+            "KC Sangakkara",
+            "MS Atapattu"
+          ],
+          "runs": 14,
+          "balls": 10,
+          "batter1_contribution": 4,
+          "batter2_contribution": 10,
+          "overs_range": [
+            3,
+            4
+          ]
+        }
+      ]
+    }
+  ],
+  "deliveries": [
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 0,
+      "ball": 1,
+      "batter": "DR Chumney",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 0,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 0,
+      "ball": 2,
+      "batter": "DR Chumney",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 0,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 0,
+      "ball": 3,
+      "batter": "DR Chumney",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 0,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 0,
+      "ball": 4,
+      "batter": "DR Chumney",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 0,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 0,
+      "ball": 5,
+      "batter": "DR Chumney",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 0,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 0,
+      "ball": 6,
+      "batter": "DR Chumney",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "JM Davison",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 0,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 10,
+      "ball": 1,
+      "batter": "JV Harris",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 12,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 10,
+      "ball": 2,
+      "batter": "JV Harris",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 12,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 10,
+      "ball": 3,
+      "batter": "JV Harris",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 12,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 10,
+      "ball": 4,
+      "batter": "JV Harris",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "middle",
+      "cumulative_runs": 16,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 10,
+      "ball": 5,
+      "batter": "JV Harris",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "middle",
+      "cumulative_runs": 20,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 10,
+      "ball": 6,
+      "batter": "JV Harris",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 21,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 11,
+      "ball": 1,
+      "batter": "JV Harris",
+      "bowler": "RAP Nissanka",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 21,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 11,
+      "ball": 2,
+      "batter": "JV Harris",
+      "bowler": "RAP Nissanka",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "wickets": [
+        {
+          "player_out": "JV Harris",
+          "kind": "hit wicket"
+        }
+      ],
+      "phase": "middle",
+      "cumulative_runs": 21,
+      "cumulative_wickets": 7
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 11,
+      "ball": 3,
+      "batter": "S Thuraisingam",
+      "bowler": "RAP Nissanka",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 21,
+      "cumulative_wickets": 7
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 11,
+      "ball": 4,
+      "batter": "S Thuraisingam",
+      "bowler": "RAP Nissanka",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 21,
+      "cumulative_wickets": 7
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 11,
+      "ball": 5,
+      "batter": "S Thuraisingam",
+      "bowler": "RAP Nissanka",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 1,
+        "total": 1
+      },
+      "extras": {
+        "noballs": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 22,
+      "cumulative_wickets": 7
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 11,
+      "ball": 6,
+      "batter": "S Thuraisingam",
+      "bowler": "RAP Nissanka",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 22,
+      "cumulative_wickets": 7
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 11,
+      "ball": 7,
+      "batter": "S Thuraisingam",
+      "bowler": "RAP Nissanka",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 22,
+      "cumulative_wickets": 7
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 12,
+      "ball": 1,
+      "batter": "A Bagai",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "S Thuraisingam",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 22,
+      "cumulative_wickets": 7
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 12,
+      "ball": 2,
+      "batter": "A Bagai",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "S Thuraisingam",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 22,
+      "cumulative_wickets": 7
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 12,
+      "ball": 3,
+      "batter": "A Bagai",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "S Thuraisingam",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 22,
+      "cumulative_wickets": 7
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 12,
+      "ball": 4,
+      "batter": "A Bagai",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "S Thuraisingam",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 23,
+      "cumulative_wickets": 7
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 12,
+      "ball": 5,
+      "batter": "S Thuraisingam",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 23,
+      "cumulative_wickets": 7
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 12,
+      "ball": 6,
+      "batter": "S Thuraisingam",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 24,
+      "cumulative_wickets": 7
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 13,
+      "ball": 1,
+      "batter": "S Thuraisingam",
+      "bowler": "RAP Nissanka",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 24,
+      "cumulative_wickets": 7
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 13,
+      "ball": 2,
+      "batter": "S Thuraisingam",
+      "bowler": "RAP Nissanka",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 24,
+      "cumulative_wickets": 7
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 13,
+      "ball": 3,
+      "batter": "S Thuraisingam",
+      "bowler": "RAP Nissanka",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 24,
+      "cumulative_wickets": 7
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 13,
+      "ball": 4,
+      "batter": "S Thuraisingam",
+      "bowler": "RAP Nissanka",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 24,
+      "cumulative_wickets": 7
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 13,
+      "ball": 5,
+      "batter": "S Thuraisingam",
+      "bowler": "RAP Nissanka",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 24,
+      "cumulative_wickets": 7
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 13,
+      "ball": 6,
+      "batter": "S Thuraisingam",
+      "bowler": "RAP Nissanka",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "middle",
+      "cumulative_runs": 28,
+      "cumulative_wickets": 7
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 14,
+      "ball": 1,
+      "batter": "A Bagai",
+      "bowler": "M Muralitharan",
+      "non_striker": "S Thuraisingam",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 28,
+      "cumulative_wickets": 7
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 14,
+      "ball": 2,
+      "batter": "A Bagai",
+      "bowler": "M Muralitharan",
+      "non_striker": "S Thuraisingam",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 28,
+      "cumulative_wickets": 7
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 14,
+      "ball": 3,
+      "batter": "A Bagai",
+      "bowler": "M Muralitharan",
+      "non_striker": "S Thuraisingam",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 28,
+      "cumulative_wickets": 7
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 14,
+      "ball": 4,
+      "batter": "A Bagai",
+      "bowler": "M Muralitharan",
+      "non_striker": "S Thuraisingam",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 28,
+      "cumulative_wickets": 7
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 14,
+      "ball": 5,
+      "batter": "A Bagai",
+      "bowler": "M Muralitharan",
+      "non_striker": "S Thuraisingam",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 29,
+      "cumulative_wickets": 7
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 14,
+      "ball": 6,
+      "batter": "S Thuraisingam",
+      "bowler": "M Muralitharan",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 30,
+      "cumulative_wickets": 7
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 15,
+      "ball": 1,
+      "batter": "S Thuraisingam",
+      "bowler": "CRD Fernando",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 1,
+        "total": 1
+      },
+      "extras": {
+        "wides": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 31,
+      "cumulative_wickets": 7
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 15,
+      "ball": 2,
+      "batter": "S Thuraisingam",
+      "bowler": "CRD Fernando",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "wickets": [
+        {
+          "player_out": "S Thuraisingam",
+          "kind": "lbw"
+        }
+      ],
+      "phase": "middle",
+      "cumulative_runs": 31,
+      "cumulative_wickets": 8
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 15,
+      "ball": 3,
+      "batter": "A Codrington",
+      "bowler": "CRD Fernando",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 31,
+      "cumulative_wickets": 8
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 15,
+      "ball": 4,
+      "batter": "A Codrington",
+      "bowler": "CRD Fernando",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 1,
+        "total": 1
+      },
+      "extras": {
+        "legbyes": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 32,
+      "cumulative_wickets": 8
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 15,
+      "ball": 5,
+      "batter": "A Bagai",
+      "bowler": "CRD Fernando",
+      "non_striker": "A Codrington",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 32,
+      "cumulative_wickets": 8
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 15,
+      "ball": 6,
+      "batter": "A Bagai",
+      "bowler": "CRD Fernando",
+      "non_striker": "A Codrington",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 33,
+      "cumulative_wickets": 8
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 15,
+      "ball": 7,
+      "batter": "A Codrington",
+      "bowler": "CRD Fernando",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 33,
+      "cumulative_wickets": 8
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 16,
+      "ball": 1,
+      "batter": "A Bagai",
+      "bowler": "M Muralitharan",
+      "non_striker": "A Codrington",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 33,
+      "cumulative_wickets": 8
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 16,
+      "ball": 2,
+      "batter": "A Bagai",
+      "bowler": "M Muralitharan",
+      "non_striker": "A Codrington",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 33,
+      "cumulative_wickets": 8
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 16,
+      "ball": 3,
+      "batter": "A Bagai",
+      "bowler": "M Muralitharan",
+      "non_striker": "A Codrington",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 33,
+      "cumulative_wickets": 8
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 16,
+      "ball": 4,
+      "batter": "A Bagai",
+      "bowler": "M Muralitharan",
+      "non_striker": "A Codrington",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "middle",
+      "cumulative_runs": 34,
+      "cumulative_wickets": 8
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 16,
+      "ball": 5,
+      "batter": "A Codrington",
+      "bowler": "M Muralitharan",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 34,
+      "cumulative_wickets": 8
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 16,
+      "ball": 6,
+      "batter": "A Codrington",
+      "bowler": "M Muralitharan",
+      "non_striker": "A Bagai",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 34,
+      "cumulative_wickets": 8
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 17,
+      "ball": 1,
+      "batter": "A Bagai",
+      "bowler": "CRD Fernando",
+      "non_striker": "A Codrington",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 34,
+      "cumulative_wickets": 8
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 17,
+      "ball": 2,
+      "batter": "A Bagai",
+      "bowler": "CRD Fernando",
+      "non_striker": "A Codrington",
+      "runs": {
+        "batter": 2,
+        "extras": 0,
+        "total": 2
+      },
+      "phase": "middle",
+      "cumulative_runs": 36,
+      "cumulative_wickets": 8
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 17,
+      "ball": 3,
+      "batter": "A Bagai",
+      "bowler": "CRD Fernando",
+      "non_striker": "A Codrington",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 36,
+      "cumulative_wickets": 8
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 17,
+      "ball": 4,
+      "batter": "A Bagai",
+      "bowler": "CRD Fernando",
+      "non_striker": "A Codrington",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 36,
+      "cumulative_wickets": 8
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 17,
+      "ball": 5,
+      "batter": "A Bagai",
+      "bowler": "CRD Fernando",
+      "non_striker": "A Codrington",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 36,
+      "cumulative_wickets": 8
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 17,
+      "ball": 6,
+      "batter": "A Bagai",
+      "bowler": "CRD Fernando",
+      "non_striker": "A Codrington",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "wickets": [
+        {
+          "player_out": "A Bagai",
+          "fielders": [
+            {
+              "name": "DPMD Jayawardene"
+            }
+          ],
+          "kind": "caught"
+        }
+      ],
+      "phase": "middle",
+      "cumulative_runs": 36,
+      "cumulative_wickets": 9
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 18,
+      "ball": 1,
+      "batter": "A Codrington",
+      "bowler": "M Muralitharan",
+      "non_striker": "BB Seebaran",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 36,
+      "cumulative_wickets": 9
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 18,
+      "ball": 2,
+      "batter": "A Codrington",
+      "bowler": "M Muralitharan",
+      "non_striker": "BB Seebaran",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 36,
+      "cumulative_wickets": 9
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 18,
+      "ball": 3,
+      "batter": "A Codrington",
+      "bowler": "M Muralitharan",
+      "non_striker": "BB Seebaran",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "middle",
+      "cumulative_runs": 36,
+      "cumulative_wickets": 9
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 18,
+      "ball": 4,
+      "batter": "A Codrington",
+      "bowler": "M Muralitharan",
+      "non_striker": "BB Seebaran",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "wickets": [
+        {
+          "player_out": "A Codrington",
+          "kind": "bowled"
+        }
+      ],
+      "phase": "middle",
+      "cumulative_runs": 36,
+      "cumulative_wickets": 10
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 1,
+      "ball": 1,
+      "batter": "JM Davison",
+      "bowler": "RAP Nissanka",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 0,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 1,
+      "ball": 2,
+      "batter": "JM Davison",
+      "bowler": "RAP Nissanka",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 0,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 1,
+      "ball": 3,
+      "batter": "JM Davison",
+      "bowler": "RAP Nissanka",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 0,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 1,
+      "ball": 4,
+      "batter": "JM Davison",
+      "bowler": "RAP Nissanka",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "wickets": [
+        {
+          "player_out": "JM Davison",
+          "fielders": [
+            {
+              "name": "KC Sangakkara"
+            }
+          ],
+          "kind": "caught"
+        }
+      ],
+      "phase": "powerplay",
+      "cumulative_runs": 0,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 1,
+      "ball": 5,
+      "batter": "AF Sattaur",
+      "bowler": "RAP Nissanka",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 0,
+        "extras": 1,
+        "total": 1
+      },
+      "extras": {
+        "wides": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 1,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 1,
+      "ball": 6,
+      "batter": "AF Sattaur",
+      "bowler": "RAP Nissanka",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 1,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 1,
+      "ball": 7,
+      "batter": "AF Sattaur",
+      "bowler": "RAP Nissanka",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 1,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 2,
+      "ball": 1,
+      "batter": "DR Chumney",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "AF Sattaur",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 1,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 2,
+      "ball": 2,
+      "batter": "DR Chumney",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "AF Sattaur",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 1,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 2,
+      "ball": 3,
+      "batter": "DR Chumney",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "AF Sattaur",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 1,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 2,
+      "ball": 4,
+      "batter": "DR Chumney",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "AF Sattaur",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 1,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 2,
+      "ball": 5,
+      "batter": "DR Chumney",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "AF Sattaur",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 1,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 2,
+      "ball": 6,
+      "batter": "DR Chumney",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "AF Sattaur",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 1,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 3,
+      "ball": 1,
+      "batter": "AF Sattaur",
+      "bowler": "RAP Nissanka",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 1,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 3,
+      "ball": 2,
+      "batter": "AF Sattaur",
+      "bowler": "RAP Nissanka",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 1,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 3,
+      "ball": 3,
+      "batter": "AF Sattaur",
+      "bowler": "RAP Nissanka",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 0,
+        "extras": 1,
+        "total": 1
+      },
+      "extras": {
+        "legbyes": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 2,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 3,
+      "ball": 4,
+      "batter": "DR Chumney",
+      "bowler": "RAP Nissanka",
+      "non_striker": "AF Sattaur",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 2,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 3,
+      "ball": 5,
+      "batter": "DR Chumney",
+      "bowler": "RAP Nissanka",
+      "non_striker": "AF Sattaur",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 2,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 3,
+      "ball": 6,
+      "batter": "DR Chumney",
+      "bowler": "RAP Nissanka",
+      "non_striker": "AF Sattaur",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 6,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 4,
+      "ball": 1,
+      "batter": "AF Sattaur",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 6,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 4,
+      "ball": 2,
+      "batter": "AF Sattaur",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 6,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 4,
+      "ball": 3,
+      "batter": "AF Sattaur",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 6,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 4,
+      "ball": 4,
+      "batter": "AF Sattaur",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 6,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 4,
+      "ball": 5,
+      "batter": "AF Sattaur",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "wickets": [
+        {
+          "player_out": "AF Sattaur",
+          "kind": "lbw"
+        }
+      ],
+      "phase": "powerplay",
+      "cumulative_runs": 6,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 4,
+      "ball": 6,
+      "batter": "IS Billcliff",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 6,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 5,
+      "ball": 1,
+      "batter": "DR Chumney",
+      "bowler": "RAP Nissanka",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 6,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 5,
+      "ball": 2,
+      "batter": "DR Chumney",
+      "bowler": "RAP Nissanka",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 6,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 5,
+      "ball": 3,
+      "batter": "DR Chumney",
+      "bowler": "RAP Nissanka",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 6,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 5,
+      "ball": 4,
+      "batter": "DR Chumney",
+      "bowler": "RAP Nissanka",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 7,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 5,
+      "ball": 5,
+      "batter": "IS Billcliff",
+      "bowler": "RAP Nissanka",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 7,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 5,
+      "ball": 6,
+      "batter": "IS Billcliff",
+      "bowler": "RAP Nissanka",
+      "non_striker": "DR Chumney",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 7,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 6,
+      "ball": 1,
+      "batter": "DR Chumney",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 7,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 6,
+      "ball": 2,
+      "batter": "DR Chumney",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 7,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 6,
+      "ball": 3,
+      "batter": "DR Chumney",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 7,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 6,
+      "ball": 4,
+      "batter": "DR Chumney",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 11,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 6,
+      "ball": 5,
+      "batter": "DR Chumney",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 11,
+      "cumulative_wickets": 2
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 6,
+      "ball": 6,
+      "batter": "DR Chumney",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "wickets": [
+        {
+          "player_out": "DR Chumney",
+          "fielders": [
+            {
+              "name": "KC Sangakkara"
+            }
+          ],
+          "kind": "caught"
+        }
+      ],
+      "phase": "powerplay",
+      "cumulative_runs": 11,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 7,
+      "ball": 1,
+      "batter": "IS Billcliff",
+      "bowler": "RAP Nissanka",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 11,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 7,
+      "ball": 2,
+      "batter": "IS Billcliff",
+      "bowler": "RAP Nissanka",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 11,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 7,
+      "ball": 3,
+      "batter": "IS Billcliff",
+      "bowler": "RAP Nissanka",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 11,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 7,
+      "ball": 4,
+      "batter": "IS Billcliff",
+      "bowler": "RAP Nissanka",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 11,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 7,
+      "ball": 5,
+      "batter": "IS Billcliff",
+      "bowler": "RAP Nissanka",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 12,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 7,
+      "ball": 6,
+      "batter": "NA de Groot",
+      "bowler": "RAP Nissanka",
+      "non_striker": "IS Billcliff",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 12,
+      "cumulative_wickets": 3
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 8,
+      "ball": 1,
+      "batter": "IS Billcliff",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "wickets": [
+        {
+          "player_out": "IS Billcliff",
+          "kind": "lbw"
+        }
+      ],
+      "phase": "powerplay",
+      "cumulative_runs": 12,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 8,
+      "ball": 2,
+      "batter": "JV Harris",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 12,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 8,
+      "ball": 3,
+      "batter": "JV Harris",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 12,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 8,
+      "ball": 4,
+      "batter": "JV Harris",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 12,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 8,
+      "ball": 5,
+      "batter": "JV Harris",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 12,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 8,
+      "ball": 6,
+      "batter": "JV Harris",
+      "bowler": "WPUJC Vaas",
+      "non_striker": "NA de Groot",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 12,
+      "cumulative_wickets": 4
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 9,
+      "ball": 1,
+      "batter": "NA de Groot",
+      "bowler": "RAP Nissanka",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "wickets": [
+        {
+          "player_out": "NA de Groot",
+          "kind": "lbw"
+        }
+      ],
+      "phase": "powerplay",
+      "cumulative_runs": 12,
+      "cumulative_wickets": 5
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 9,
+      "ball": 2,
+      "batter": "I Maraj",
+      "bowler": "RAP Nissanka",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "wickets": [
+        {
+          "player_out": "I Maraj",
+          "kind": "lbw"
+        }
+      ],
+      "phase": "powerplay",
+      "cumulative_runs": 12,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 9,
+      "ball": 3,
+      "batter": "A Bagai",
+      "bowler": "RAP Nissanka",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 12,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 9,
+      "ball": 4,
+      "batter": "A Bagai",
+      "bowler": "RAP Nissanka",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 12,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 9,
+      "ball": 5,
+      "batter": "A Bagai",
+      "bowler": "RAP Nissanka",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 12,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 1,
+      "over": 9,
+      "ball": 6,
+      "batter": "A Bagai",
+      "bowler": "RAP Nissanka",
+      "non_striker": "JV Harris",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 12,
+      "cumulative_wickets": 6
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 2,
+      "over": 0,
+      "ball": 1,
+      "batter": "MS Atapattu",
+      "bowler": "S Thuraisingam",
+      "non_striker": "ST Jayasuriya",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 0,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 2,
+      "over": 0,
+      "ball": 2,
+      "batter": "MS Atapattu",
+      "bowler": "S Thuraisingam",
+      "non_striker": "ST Jayasuriya",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 0,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 2,
+      "over": 0,
+      "ball": 3,
+      "batter": "MS Atapattu",
+      "bowler": "S Thuraisingam",
+      "non_striker": "ST Jayasuriya",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 4,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 2,
+      "over": 0,
+      "ball": 4,
+      "batter": "MS Atapattu",
+      "bowler": "S Thuraisingam",
+      "non_striker": "ST Jayasuriya",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 5,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 2,
+      "over": 0,
+      "ball": 5,
+      "batter": "ST Jayasuriya",
+      "bowler": "S Thuraisingam",
+      "non_striker": "MS Atapattu",
+      "runs": {
+        "batter": 2,
+        "extras": 0,
+        "total": 2
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 7,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 2,
+      "over": 0,
+      "ball": 6,
+      "batter": "ST Jayasuriya",
+      "bowler": "S Thuraisingam",
+      "non_striker": "MS Atapattu",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 7,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 2,
+      "over": 1,
+      "ball": 1,
+      "batter": "MS Atapattu",
+      "bowler": "JM Davison",
+      "non_striker": "ST Jayasuriya",
+      "runs": {
+        "batter": 3,
+        "extras": 0,
+        "total": 3
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 10,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 2,
+      "over": 1,
+      "ball": 2,
+      "batter": "ST Jayasuriya",
+      "bowler": "JM Davison",
+      "non_striker": "MS Atapattu",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 10,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 2,
+      "over": 1,
+      "ball": 3,
+      "batter": "ST Jayasuriya",
+      "bowler": "JM Davison",
+      "non_striker": "MS Atapattu",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 11,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 2,
+      "over": 1,
+      "ball": 4,
+      "batter": "MS Atapattu",
+      "bowler": "JM Davison",
+      "non_striker": "ST Jayasuriya",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 11,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 2,
+      "over": 1,
+      "ball": 5,
+      "batter": "MS Atapattu",
+      "bowler": "JM Davison",
+      "non_striker": "ST Jayasuriya",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 15,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 2,
+      "over": 1,
+      "ball": 6,
+      "batter": "MS Atapattu",
+      "bowler": "JM Davison",
+      "non_striker": "ST Jayasuriya",
+      "runs": {
+        "batter": 2,
+        "extras": 0,
+        "total": 2
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 17,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 2,
+      "over": 2,
+      "ball": 1,
+      "batter": "ST Jayasuriya",
+      "bowler": "S Thuraisingam",
+      "non_striker": "MS Atapattu",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 21,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 2,
+      "over": 2,
+      "ball": 2,
+      "batter": "ST Jayasuriya",
+      "bowler": "S Thuraisingam",
+      "non_striker": "MS Atapattu",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 21,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 2,
+      "over": 2,
+      "ball": 3,
+      "batter": "ST Jayasuriya",
+      "bowler": "S Thuraisingam",
+      "non_striker": "MS Atapattu",
+      "runs": {
+        "batter": 2,
+        "extras": 0,
+        "total": 2
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 23,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 2,
+      "over": 2,
+      "ball": 4,
+      "batter": "ST Jayasuriya",
+      "bowler": "S Thuraisingam",
+      "non_striker": "MS Atapattu",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 23,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 2,
+      "over": 2,
+      "ball": 5,
+      "batter": "ST Jayasuriya",
+      "bowler": "S Thuraisingam",
+      "non_striker": "MS Atapattu",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 23,
+      "cumulative_wickets": 0
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 2,
+      "over": 2,
+      "ball": 6,
+      "batter": "ST Jayasuriya",
+      "bowler": "S Thuraisingam",
+      "non_striker": "MS Atapattu",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "wickets": [
+        {
+          "player_out": "ST Jayasuriya",
+          "kind": "lbw"
+        }
+      ],
+      "phase": "powerplay",
+      "cumulative_runs": 23,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 2,
+      "over": 3,
+      "ball": 1,
+      "batter": "MS Atapattu",
+      "bowler": "JM Davison",
+      "non_striker": "KC Sangakkara",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 23,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 2,
+      "over": 3,
+      "ball": 2,
+      "batter": "MS Atapattu",
+      "bowler": "JM Davison",
+      "non_striker": "KC Sangakkara",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 24,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 2,
+      "over": 3,
+      "ball": 3,
+      "batter": "KC Sangakkara",
+      "bowler": "JM Davison",
+      "non_striker": "MS Atapattu",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 24,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 2,
+      "over": 3,
+      "ball": 4,
+      "batter": "KC Sangakkara",
+      "bowler": "JM Davison",
+      "non_striker": "MS Atapattu",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 24,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 2,
+      "over": 3,
+      "ball": 5,
+      "batter": "KC Sangakkara",
+      "bowler": "JM Davison",
+      "non_striker": "MS Atapattu",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 28,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 2,
+      "over": 3,
+      "ball": 6,
+      "batter": "KC Sangakkara",
+      "bowler": "JM Davison",
+      "non_striker": "MS Atapattu",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 28,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 2,
+      "over": 4,
+      "ball": 1,
+      "batter": "MS Atapattu",
+      "bowler": "S Thuraisingam",
+      "non_striker": "KC Sangakkara",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 32,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 2,
+      "over": 4,
+      "ball": 2,
+      "batter": "MS Atapattu",
+      "bowler": "S Thuraisingam",
+      "non_striker": "KC Sangakkara",
+      "runs": {
+        "batter": 0,
+        "extras": 0,
+        "total": 0
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 32,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 2,
+      "over": 4,
+      "ball": 3,
+      "batter": "MS Atapattu",
+      "bowler": "S Thuraisingam",
+      "non_striker": "KC Sangakkara",
+      "runs": {
+        "batter": 4,
+        "extras": 0,
+        "total": 4
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 36,
+      "cumulative_wickets": 1
+    },
+    {
+      "match_id": "odi_canada_vs_sri_lanka_20030219_boland_bank_park,_pa",
+      "innings": 2,
+      "over": 4,
+      "ball": 4,
+      "batter": "MS Atapattu",
+      "bowler": "S Thuraisingam",
+      "non_striker": "KC Sangakkara",
+      "runs": {
+        "batter": 1,
+        "extras": 0,
+        "total": 1
+      },
+      "phase": "powerplay",
+      "cumulative_runs": 37,
+      "cumulative_wickets": 1
+    }
+  ],
+  "partnerships": [
+    {
+      "wicket": 1,
+      "batters": [
+        "DR Chumney",
+        "JM Davison"
+      ],
+      "runs": 0,
+      "balls": 10,
+      "batter1_contribution": 0,
+      "batter2_contribution": 0,
+      "overs_range": [
+        0,
+        1
+      ]
+    },
+    {
+      "wicket": 10,
+      "batters": [
+        "A Codrington",
+        "BB Seebaran"
+      ],
+      "runs": 0,
+      "balls": 4,
+      "batter1_contribution": 0,
+      "batter2_contribution": 0,
+      "overs_range": [
+        18,
+        18
+      ]
+    },
+    {
+      "wicket": 2,
+      "batters": [
+        "AF Sattaur",
+        "DR Chumney"
+      ],
+      "runs": 6,
+      "balls": 19,
+      "batter1_contribution": 0,
+      "batter2_contribution": 4,
+      "overs_range": [
+        1,
+        4
+      ]
+    },
+    {
+      "wicket": 3,
+      "batters": [
+        "DR Chumney",
+        "IS Billcliff"
+      ],
+      "runs": 5,
+      "balls": 13,
+      "batter1_contribution": 5,
+      "batter2_contribution": 0,
+      "overs_range": [
+        4,
+        6
+      ]
+    },
+    {
+      "wicket": 4,
+      "batters": [
+        "IS Billcliff",
+        "NA de Groot"
+      ],
+      "runs": 1,
+      "balls": 7,
+      "batter1_contribution": 1,
+      "batter2_contribution": 0,
+      "overs_range": [
+        7,
+        8
+      ]
+    },
+    {
+      "wicket": 5,
+      "batters": [
+        "JV Harris",
+        "NA de Groot"
+      ],
+      "runs": 0,
+      "balls": 6,
+      "batter1_contribution": 0,
+      "batter2_contribution": 0,
+      "overs_range": [
+        8,
+        9
+      ]
+    },
+    {
+      "wicket": 6,
+      "batters": [
+        "I Maraj",
+        "JV Harris"
+      ],
+      "runs": 0,
+      "balls": 1,
+      "batter1_contribution": 0,
+      "batter2_contribution": 0,
+      "overs_range": [
+        9,
+        9
+      ]
+    },
+    {
+      "wicket": 7,
+      "batters": [
+        "A Bagai",
+        "JV Harris"
+      ],
+      "runs": 9,
+      "balls": 12,
+      "batter1_contribution": 0,
+      "batter2_contribution": 9,
+      "overs_range": [
+        9,
+        11
+      ]
+    },
+    {
+      "wicket": 8,
+      "batters": [
+        "A Bagai",
+        "S Thuraisingam"
+      ],
+      "runs": 10,
+      "balls": 24,
+      "batter1_contribution": 2,
+      "batter2_contribution": 6,
+      "overs_range": [
+        11,
+        15
+      ]
+    },
+    {
+      "wicket": 9,
+      "batters": [
+        "A Bagai",
+        "A Codrington"
+      ],
+      "runs": 5,
+      "balls": 17,
+      "batter1_contribution": 4,
+      "batter2_contribution": 0,
+      "overs_range": [
+        15,
+        17
+      ]
+    },
+    {
+      "wicket": 1,
+      "batters": [
+        "MS Atapattu",
+        "ST Jayasuriya"
+      ],
+      "runs": 23,
+      "balls": 18,
+      "batter1_contribution": 14,
+      "batter2_contribution": 9,
+      "overs_range": [
+        0,
+        2
+      ]
+    },
+    {
+      "wicket": 2,
+      "batters": [
+        "KC Sangakkara",
+        "MS Atapattu"
+      ],
+      "runs": 14,
+      "balls": 10,
+      "batter1_contribution": 4,
+      "batter2_contribution": 10,
+      "overs_range": [
+        3,
+        4
+      ]
+    }
+  ]
+}

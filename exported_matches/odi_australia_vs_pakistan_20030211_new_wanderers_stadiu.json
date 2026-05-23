@@ -1,0 +1,1292 @@
+{
+  "match_id": "odi_australia_vs_pakistan_20030211_new_wanderers_stadiu",
+  "info": {
+    "match_id": "odi_australia_vs_pakistan_20030211_new_wanderers_stadiu",
+    "match_number": 1945,
+    "dates": [
+      "2003-02-11T00:00:00.000Z"
+    ],
+    "season": "2002/03",
+    "venue": "New Wanderers Stadium, Johannesburg",
+    "city": "Johannesburg",
+    "event": {
+      "name": "ICC World Cup",
+      "match_number": 4,
+      "group": "A"
+    },
+    "match_type": "ODI",
+    "gender": "male",
+    "overs": 50,
+    "balls_per_over": 6,
+    "teams": [
+      "Australia",
+      "Pakistan"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Pakistan"
+    },
+    "umpires": [
+      "EAR de Silva",
+      "DR Shepherd"
+    ],
+    "referee": "CH Lloyd",
+    "tv_umpire": "BF Bowden",
+    "outcome": {
+      "winner": "Australia",
+      "by": {
+        "runs": 82
+      }
+    },
+    "player_of_match": [
+      "A Symonds"
+    ],
+    "players": {
+      "Australia": [
+        "AC Gilchrist",
+        "ML Hayden",
+        "RT Ponting",
+        "DR Martyn",
+        "JP Maher",
+        "A Symonds",
+        "GB Hogg",
+        "IJ Harvey",
+        "B Lee",
+        "JN Gillespie",
+        "GD McGrath"
+      ],
+      "Pakistan": [
+        "Taufeeq Umar",
+        "Shahid Afridi",
+        "Saleem Elahi",
+        "Inzamam-ul-Haq",
+        "Yousuf Youhana",
+        "Younis Khan",
+        "Abdul Razzaq",
+        "Rashid Latif",
+        "Wasim Akram",
+        "Waqar Younis",
+        "Shoaib Akhtar"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Symonds": "bd77eb62",
+        "AC Gilchrist": "2b6e6dec",
+        "Abdul Razzaq": "390ff45b",
+        "B Lee": "dd09ff8e",
+        "BF Bowden": "efc0a862",
+        "CH Lloyd": "5b445db0",
+        "DR Martyn": "69762509",
+        "DR Shepherd": "8a578048",
+        "EAR de Silva": "dc63f509",
+        "GB Hogg": "f708a0bc",
+        "GD McGrath": "ee7d0c82",
+        "IJ Harvey": "3227beb4",
+        "Inzamam-ul-Haq": "b9a3d8c6",
+        "JN Gillespie": "74234d66",
+        "JP Maher": "ec526fca",
+        "ML Hayden": "d8699ab7",
+        "RT Ponting": "7d415ea5",
+        "Rashid Latif": "d32782ae",
+        "Saleem Elahi": "1e7b1aa7",
+        "Shahid Afridi": "0dc00542",
+        "Shoaib Akhtar": "10a91f35",
+        "Taufeeq Umar": "c73bb037",
+        "Waqar Younis": "d8906a73",
+        "Wasim Akram": "126e56a1",
+        "Younis Khan": "33cb3411",
+        "Yousuf Youhana": "e237b28c"
+      }
+    },
+    "created": {
+      "_seconds": 1764259623,
+      "_nanoseconds": 658000000
+    },
+    "updated": {
+      "_seconds": 1764259623,
+      "_nanoseconds": 658000000
+    }
+  },
+  "innings": [
+    {
+      "match_id": "odi_australia_vs_pakistan_20030211_new_wanderers_stadiu",
+      "innings": 1,
+      "team": "Australia",
+      "total_runs": 310,
+      "total_wickets": 8,
+      "overs": 49.7,
+      "batters": [
+        {
+          "player": "AC Gilchrist",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "caught",
+            "bowler": "Wasim Akram",
+            "fielders": [
+              "Waqar Younis"
+            ]
+          },
+          "strike_rate": 33.33333333333333,
+          "position": 1
+        },
+        {
+          "player": "ML Hayden",
+          "runs": 27,
+          "balls": 41,
+          "fours": 3,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "bowled",
+            "bowler": "Wasim Akram"
+          },
+          "strike_rate": 65.85365853658537,
+          "position": 2
+        },
+        {
+          "player": "RT Ponting",
+          "runs": 53,
+          "balls": 67,
+          "fours": 7,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "caught",
+            "bowler": "Shoaib Akhtar",
+            "fielders": [
+              "Taufeeq Umar"
+            ]
+          },
+          "strike_rate": 79.1044776119403,
+          "position": 3
+        },
+        {
+          "player": "DR Martyn",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "bowled",
+            "bowler": "Wasim Akram"
+          },
+          "strike_rate": 0,
+          "position": 4
+        },
+        {
+          "player": "JP Maher",
+          "runs": 9,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "caught",
+            "bowler": "Waqar Younis",
+            "fielders": [
+              "Rashid Latif"
+            ]
+          },
+          "strike_rate": 47.368421052631575,
+          "position": 5
+        },
+        {
+          "player": "A Symonds",
+          "runs": 143,
+          "balls": 125,
+          "fours": 18,
+          "sixes": 2,
+          "strike_rate": 114.39999999999999,
+          "position": 6
+        },
+        {
+          "player": "GB Hogg",
+          "runs": 14,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 63.63636363636363,
+          "position": 7
+        },
+        {
+          "player": "IJ Harvey",
+          "runs": 24,
+          "balls": 19,
+          "fours": 3,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "caught",
+            "bowler": "Shoaib Akhtar",
+            "fielders": [
+              "Waqar Younis"
+            ]
+          },
+          "strike_rate": 126.3157894736842,
+          "position": 8
+        },
+        {
+          "player": "B Lee",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "caught",
+            "bowler": "Waqar Younis",
+            "fielders": [
+              "Inzamam-ul-Haq"
+            ]
+          },
+          "strike_rate": 33.33333333333333,
+          "position": 9
+        },
+        {
+          "player": "JN Gillespie",
+          "runs": 6,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 150,
+          "position": 10
+        }
+      ],
+      "bowlers": [
+        {
+          "player": "Wasim Akram",
+          "balls": 62,
+          "runs": 72,
+          "wickets": 3,
+          "wides": 5,
+          "noballs": 2,
+          "dots": 29,
+          "fours": 7,
+          "sixes": 1,
+          "maidens": 0,
+          "overs": 10.2,
+          "economy": 6.967741935483872
+        },
+        {
+          "player": "Shoaib Akhtar",
+          "balls": 60,
+          "runs": 46,
+          "wickets": 2,
+          "wides": 3,
+          "noballs": 0,
+          "dots": 31,
+          "fours": 3,
+          "sixes": 0,
+          "maidens": 0,
+          "overs": 10,
+          "economy": 4.6000000000000005
+        },
+        {
+          "player": "Waqar Younis",
+          "balls": 53,
+          "runs": 51,
+          "wickets": 2,
+          "wides": 3,
+          "noballs": 4,
+          "dots": 28,
+          "fours": 4,
+          "sixes": 1,
+          "maidens": 0,
+          "overs": 8.5,
+          "economy": 5.773584905660377
+        },
+        {
+          "player": "Abdul Razzaq",
+          "balls": 38,
+          "runs": 42,
+          "wickets": 0,
+          "wides": 0,
+          "noballs": 2,
+          "dots": 20,
+          "fours": 8,
+          "sixes": 0,
+          "maidens": 0,
+          "overs": 6.2,
+          "economy": 6.631578947368421
+        },
+        {
+          "player": "Shahid Afridi",
+          "balls": 57,
+          "runs": 63,
+          "wickets": 1,
+          "wides": 1,
+          "noballs": 0,
+          "dots": 25,
+          "fours": 9,
+          "sixes": 0,
+          "maidens": 0,
+          "overs": 9.3,
+          "economy": 6.631578947368421
+        },
+        {
+          "player": "Younis Khan",
+          "balls": 37,
+          "runs": 36,
+          "wickets": 0,
+          "wides": 0,
+          "noballs": 1,
+          "dots": 12,
+          "fours": 2,
+          "sixes": 0,
+          "maidens": 0,
+          "overs": 6.1,
+          "economy": 5.837837837837839
+        }
+      ],
+      "extras": {
+        "total": 31,
+        "wides": 12,
+        "noballs": 9,
+        "byes": 1,
+        "legbyes": 9,
+        "penalty": 0
+      },
+      "fow": [
+        {
+          "runs": 10,
+          "wickets": 1,
+          "batter": "AC Gilchrist",
+          "over": 2
+        },
+        {
+          "runs": 52,
+          "wickets": 2,
+          "batter": "ML Hayden",
+          "over": 10
+        },
+        {
+          "runs": 52,
+          "wickets": 3,
+          "batter": "DR Martyn",
+          "over": 10
+        },
+        {
+          "runs": 86,
+          "wickets": 4,
+          "batter": "JP Maher",
+          "over": 15
+        },
+        {
+          "runs": 146,
+          "wickets": 5,
+          "batter": "RT Ponting",
+          "over": 29
+        },
+        {
+          "runs": 216,
+          "wickets": 6,
+          "batter": "GB Hogg",
+          "over": 38
+        },
+        {
+          "runs": 270,
+          "wickets": 7,
+          "batter": "IJ Harvey",
+          "over": 46
+        },
+        {
+          "runs": 292,
+          "wickets": 8,
+          "batter": "B Lee",
+          "over": 48
+        }
+      ],
+      "partnerships": [
+        {
+          "wicket": 1,
+          "batters": [
+            "AC Gilchrist",
+            "ML Hayden"
+          ],
+          "runs": 10,
+          "balls": 14,
+          "batter1_contribution": 1,
+          "batter2_contribution": 7,
+          "overs_range": [
+            0,
+            2
+          ]
+        },
+        {
+          "wicket": 2,
+          "batters": [
+            "ML Hayden",
+            "RT Ponting"
+          ],
+          "runs": 42,
+          "balls": 50,
+          "batter1_contribution": 20,
+          "batter2_contribution": 8,
+          "overs_range": [
+            2,
+            10
+          ]
+        },
+        {
+          "wicket": 3,
+          "batters": [
+            "DR Martyn",
+            "RT Ponting"
+          ],
+          "runs": 0,
+          "balls": 1,
+          "batter1_contribution": 0,
+          "batter2_contribution": 0,
+          "overs_range": [
+            10,
+            10
+          ]
+        },
+        {
+          "wicket": 4,
+          "batters": [
+            "JP Maher",
+            "RT Ponting"
+          ],
+          "runs": 34,
+          "balls": 33,
+          "batter1_contribution": 9,
+          "batter2_contribution": 24,
+          "overs_range": [
+            10,
+            15
+          ]
+        },
+        {
+          "wicket": 5,
+          "batters": [
+            "A Symonds",
+            "RT Ponting"
+          ],
+          "runs": 60,
+          "balls": 83,
+          "batter1_contribution": 34,
+          "batter2_contribution": 21,
+          "overs_range": [
+            15,
+            29
+          ]
+        },
+        {
+          "wicket": 6,
+          "batters": [
+            "A Symonds",
+            "GB Hogg"
+          ],
+          "runs": 70,
+          "balls": 57,
+          "batter1_contribution": 54,
+          "batter2_contribution": 14,
+          "overs_range": [
+            29,
+            38
+          ]
+        },
+        {
+          "wicket": 7,
+          "batters": [
+            "A Symonds",
+            "IJ Harvey"
+          ],
+          "runs": 54,
+          "balls": 46,
+          "batter1_contribution": 28,
+          "batter2_contribution": 24,
+          "overs_range": [
+            38,
+            46
+          ]
+        },
+        {
+          "wicket": 8,
+          "batters": [
+            "A Symonds",
+            "B Lee"
+          ],
+          "runs": 22,
+          "balls": 13,
+          "batter1_contribution": 17,
+          "batter2_contribution": 2,
+          "overs_range": [
+            46,
+            48
+          ]
+        },
+        {
+          "wicket": 9,
+          "batters": [
+            "A Symonds",
+            "JN Gillespie"
+          ],
+          "runs": 18,
+          "balls": 10,
+          "batter1_contribution": 10,
+          "batter2_contribution": 6,
+          "overs_range": [
+            48,
+            49
+          ]
+        }
+      ]
+    },
+    {
+      "match_id": "odi_australia_vs_pakistan_20030211_new_wanderers_stadiu",
+      "innings": 2,
+      "team": "Pakistan",
+      "total_runs": 228,
+      "total_wickets": 10,
+      "overs": 44.3,
+      "batters": [
+        {
+          "player": "Taufeeq Umar",
+          "runs": 21,
+          "balls": 43,
+          "fours": 4,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "caught",
+            "bowler": "B Lee",
+            "fielders": [
+              "GB Hogg"
+            ]
+          },
+          "strike_rate": 48.837209302325576,
+          "position": 1
+        },
+        {
+          "player": "Shahid Afridi",
+          "runs": 1,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "caught",
+            "bowler": "JN Gillespie",
+            "fielders": [
+              "AC Gilchrist"
+            ]
+          },
+          "strike_rate": 12.5,
+          "position": 2
+        },
+        {
+          "player": "Saleem Elahi",
+          "runs": 30,
+          "balls": 40,
+          "fours": 3,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "caught",
+            "bowler": "IJ Harvey",
+            "fielders": [
+              "B Lee"
+            ]
+          },
+          "strike_rate": 75,
+          "position": 3
+        },
+        {
+          "player": "Inzamam-ul-Haq",
+          "runs": 6,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "caught",
+            "bowler": "GD McGrath",
+            "fielders": [
+              "AC Gilchrist"
+            ]
+          },
+          "strike_rate": 46.15384615384615,
+          "position": 4
+        },
+        {
+          "player": "Yousuf Youhana",
+          "runs": 27,
+          "balls": 37,
+          "fours": 4,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "caught",
+            "bowler": "IJ Harvey",
+            "fielders": [
+              "A Symonds"
+            ]
+          },
+          "strike_rate": 72.97297297297297,
+          "position": 5
+        },
+        {
+          "player": "Younis Khan",
+          "runs": 19,
+          "balls": 28,
+          "fours": 0,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "caught",
+            "bowler": "GB Hogg",
+            "fielders": [
+              "RT Ponting"
+            ]
+          },
+          "strike_rate": 67.85714285714286,
+          "position": 6
+        },
+        {
+          "player": "Abdul Razzaq",
+          "runs": 25,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "caught and bowled",
+            "bowler": "GB Hogg"
+          },
+          "strike_rate": 75.75757575757575,
+          "position": 7
+        },
+        {
+          "player": "Rashid Latif",
+          "runs": 33,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 3,
+          "dismissal": {
+            "kind": "bowled",
+            "bowler": "GB Hogg"
+          },
+          "strike_rate": 143.47826086956522,
+          "position": 8
+        },
+        {
+          "player": "Wasim Akram",
+          "runs": 33,
+          "balls": 31,
+          "fours": 4,
+          "sixes": 1,
+          "dismissal": {
+            "kind": "caught",
+            "bowler": "IJ Harvey",
+            "fielders": [
+              "RT Ponting"
+            ]
+          },
+          "strike_rate": 106.4516129032258,
+          "position": 9
+        },
+        {
+          "player": "Waqar Younis",
+          "runs": 6,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "dismissal": {
+            "kind": "caught",
+            "bowler": "IJ Harvey",
+            "fielders": [
+              "GD McGrath"
+            ]
+          },
+          "strike_rate": 54.54545454545454,
+          "position": 10
+        },
+        {
+          "player": "Shoaib Akhtar",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0,
+          "position": 11
+        }
+      ],
+      "bowlers": [
+        {
+          "player": "GD McGrath",
+          "balls": 60,
+          "runs": 39,
+          "wickets": 1,
+          "wides": 1,
+          "noballs": 0,
+          "dots": 45,
+          "fours": 6,
+          "sixes": 0,
+          "maidens": 0,
+          "overs": 10,
+          "economy": 3.9000000000000004
+        },
+        {
+          "player": "JN Gillespie",
+          "balls": 48,
+          "runs": 32,
+          "wickets": 1,
+          "wides": 3,
+          "noballs": 0,
+          "dots": 33,
+          "fours": 3,
+          "sixes": 0,
+          "maidens": 0,
+          "overs": 8,
+          "economy": 4
+        },
+        {
+          "player": "B Lee",
+          "balls": 47,
+          "runs": 42,
+          "wickets": 1,
+          "wides": 0,
+          "noballs": 5,
+          "dots": 20,
+          "fours": 3,
+          "sixes": 0,
+          "maidens": 0,
+          "overs": 7.5,
+          "economy": 5.361702127659575
+        },
+        {
+          "player": "IJ Harvey",
+          "balls": 57,
+          "runs": 58,
+          "wickets": 4,
+          "wides": 3,
+          "noballs": 0,
+          "dots": 25,
+          "fours": 3,
+          "sixes": 2,
+          "maidens": 0,
+          "overs": 9.3,
+          "economy": 6.105263157894737
+        },
+        {
+          "player": "GB Hogg",
+          "balls": 60,
+          "runs": 57,
+          "wickets": 3,
+          "wides": 3,
+          "noballs": 0,
+          "dots": 34,
+          "fours": 4,
+          "sixes": 2,
+          "maidens": 0,
+          "overs": 10,
+          "economy": 5.699999999999999
+        }
+      ],
+      "extras": {
+        "total": 27,
+        "wides": 10,
+        "noballs": 5,
+        "byes": 3,
+        "legbyes": 9,
+        "penalty": 0
+      },
+      "fow": [
+        {
+          "runs": 9,
+          "wickets": 1,
+          "batter": "Shahid Afridi",
+          "over": 3
+        },
+        {
+          "runs": 38,
+          "wickets": 2,
+          "batter": "Taufeeq Umar",
+          "over": 11
+        },
+        {
+          "runs": 49,
+          "wickets": 3,
+          "batter": "Inzamam-ul-Haq",
+          "over": 14
+        },
+        {
+          "runs": 81,
+          "wickets": 4,
+          "batter": "Saleem Elahi",
+          "over": 19
+        },
+        {
+          "runs": 103,
+          "wickets": 5,
+          "batter": "Yousuf Youhana",
+          "over": 25
+        },
+        {
+          "runs": 125,
+          "wickets": 6,
+          "batter": "Younis Khan",
+          "over": 30
+        },
+        {
+          "runs": 147,
+          "wickets": 7,
+          "batter": "Abdul Razzaq",
+          "over": 34
+        },
+        {
+          "runs": 201,
+          "wickets": 8,
+          "batter": "Rashid Latif",
+          "over": 38
+        },
+        {
+          "runs": 223,
+          "wickets": 9,
+          "batter": "Wasim Akram",
+          "over": 42
+        },
+        {
+          "runs": 228,
+          "wickets": 10,
+          "batter": "Waqar Younis",
+          "over": 44
+        }
+      ],
+      "partnerships": [
+        {
+          "wicket": 1,
+          "batters": [
+            "Shahid Afridi",
+            "Taufeeq Umar"
+          ],
+          "runs": 9,
+          "balls": 24,
+          "batter1_contribution": 1,
+          "batter2_contribution": 7,
+          "overs_range": [
+            0,
+            3
+          ]
+        },
+        {
+          "wicket": 2,
+          "batters": [
+            "Saleem Elahi",
+            "Taufeeq Umar"
+          ],
+          "runs": 29,
+          "balls": 44,
+          "batter1_contribution": 13,
+          "batter2_contribution": 14,
+          "overs_range": [
+            4,
+            11
+          ]
+        },
+        {
+          "wicket": 3,
+          "batters": [
+            "Inzamam-ul-Haq",
+            "Saleem Elahi"
+          ],
+          "runs": 11,
+          "balls": 20,
+          "batter1_contribution": 6,
+          "batter2_contribution": 2,
+          "overs_range": [
+            11,
+            14
+          ]
+        },
+        {
+          "wicket": 4,
+          "batters": [
+            "Saleem Elahi",
+            "Yousuf Youhana"
+          ],
+          "runs": 32,
+          "balls": 31,
+          "batter1_contribution": 15,
+          "batter2_contribution": 15,
+          "overs_range": [
+            14,
+            19
+          ]
+        },
+        {
+          "wicket": 5,
+          "batters": [
+            "Younis Khan",
+            "Yousuf Youhana"
+          ],
+          "runs": 22,
+          "balls": 36,
+          "batter1_contribution": 8,
+          "batter2_contribution": 12,
+          "overs_range": [
+            19,
+            25
+          ]
+        },
+        {
+          "wicket": 6,
+          "batters": [
+            "Abdul Razzaq",
+            "Younis Khan"
+          ],
+          "runs": 22,
+          "balls": 30,
+          "batter1_contribution": 8,
+          "batter2_contribution": 11,
+          "overs_range": [
+            25,
+            30
+          ]
+        },
+        {
+          "wicket": 7,
+          "batters": [
+            "Abdul Razzaq",
+            "Rashid Latif"
+          ],
+          "runs": 22,
+          "balls": 25,
+          "batter1_contribution": 17,
+          "batter2_contribution": 4,
+          "overs_range": [
+            30,
+            34
+          ]
+        },
+        {
+          "wicket": 8,
+          "batters": [
+            "Rashid Latif",
+            "Wasim Akram"
+          ],
+          "runs": 54,
+          "balls": 29,
+          "batter1_contribution": 29,
+          "batter2_contribution": 21,
+          "overs_range": [
+            34,
+            38
+          ]
+        },
+        {
+          "wicket": 9,
+          "batters": [
+            "Waqar Younis",
+            "Wasim Akram"
+          ],
+          "runs": 22,
+          "balls": 24,
+          "batter1_contribution": 5,
+          "batter2_contribution": 12,
+          "overs_range": [
+            39,
+            42
+          ]
+        },
+        {
+          "wicket": 10,
+          "batters": [
+            "Shoaib Akhtar",
+            "Waqar Younis"
+          ],
+          "runs": 5,
+          "balls": 9,
+          "batter1_contribution": 0,
+          "batter2_contribution": 1,
+          "overs_range": [
+            43,
+            44
+          ]
+        }
+      ]
+    }
+  ],
+  "deliveries": [],
+  "partnerships": [
+    {
+      "wicket": 1,
+      "batters": [
+        "AC Gilchrist",
+        "ML Hayden"
+      ],
+      "runs": 10,
+      "balls": 14,
+      "batter1_contribution": 1,
+      "batter2_contribution": 7,
+      "overs_range": [
+        0,
+        2
+      ]
+    },
+    {
+      "wicket": 2,
+      "batters": [
+        "ML Hayden",
+        "RT Ponting"
+      ],
+      "runs": 42,
+      "balls": 50,
+      "batter1_contribution": 20,
+      "batter2_contribution": 8,
+      "overs_range": [
+        2,
+        10
+      ]
+    },
+    {
+      "wicket": 3,
+      "batters": [
+        "DR Martyn",
+        "RT Ponting"
+      ],
+      "runs": 0,
+      "balls": 1,
+      "batter1_contribution": 0,
+      "batter2_contribution": 0,
+      "overs_range": [
+        10,
+        10
+      ]
+    },
+    {
+      "wicket": 4,
+      "batters": [
+        "JP Maher",
+        "RT Ponting"
+      ],
+      "runs": 34,
+      "balls": 33,
+      "batter1_contribution": 9,
+      "batter2_contribution": 24,
+      "overs_range": [
+        10,
+        15
+      ]
+    },
+    {
+      "wicket": 5,
+      "batters": [
+        "A Symonds",
+        "RT Ponting"
+      ],
+      "runs": 60,
+      "balls": 83,
+      "batter1_contribution": 34,
+      "batter2_contribution": 21,
+      "overs_range": [
+        15,
+        29
+      ]
+    },
+    {
+      "wicket": 6,
+      "batters": [
+        "A Symonds",
+        "GB Hogg"
+      ],
+      "runs": 70,
+      "balls": 57,
+      "batter1_contribution": 54,
+      "batter2_contribution": 14,
+      "overs_range": [
+        29,
+        38
+      ]
+    },
+    {
+      "wicket": 7,
+      "batters": [
+        "A Symonds",
+        "IJ Harvey"
+      ],
+      "runs": 54,
+      "balls": 46,
+      "batter1_contribution": 28,
+      "batter2_contribution": 24,
+      "overs_range": [
+        38,
+        46
+      ]
+    },
+    {
+      "wicket": 8,
+      "batters": [
+        "A Symonds",
+        "B Lee"
+      ],
+      "runs": 22,
+      "balls": 13,
+      "batter1_contribution": 17,
+      "batter2_contribution": 2,
+      "overs_range": [
+        46,
+        48
+      ]
+    },
+    {
+      "wicket": 9,
+      "batters": [
+        "A Symonds",
+        "JN Gillespie"
+      ],
+      "runs": 18,
+      "balls": 10,
+      "batter1_contribution": 10,
+      "batter2_contribution": 6,
+      "overs_range": [
+        48,
+        49
+      ]
+    },
+    {
+      "wicket": 1,
+      "batters": [
+        "Shahid Afridi",
+        "Taufeeq Umar"
+      ],
+      "runs": 9,
+      "balls": 24,
+      "batter1_contribution": 1,
+      "batter2_contribution": 7,
+      "overs_range": [
+        0,
+        3
+      ]
+    },
+    {
+      "wicket": 10,
+      "batters": [
+        "Shoaib Akhtar",
+        "Waqar Younis"
+      ],
+      "runs": 5,
+      "balls": 9,
+      "batter1_contribution": 0,
+      "batter2_contribution": 1,
+      "overs_range": [
+        43,
+        44
+      ]
+    },
+    {
+      "wicket": 2,
+      "batters": [
+        "Saleem Elahi",
+        "Taufeeq Umar"
+      ],
+      "runs": 29,
+      "balls": 44,
+      "batter1_contribution": 13,
+      "batter2_contribution": 14,
+      "overs_range": [
+        4,
+        11
+      ]
+    },
+    {
+      "wicket": 3,
+      "batters": [
+        "Inzamam-ul-Haq",
+        "Saleem Elahi"
+      ],
+      "runs": 11,
+      "balls": 20,
+      "batter1_contribution": 6,
+      "batter2_contribution": 2,
+      "overs_range": [
+        11,
+        14
+      ]
+    },
+    {
+      "wicket": 4,
+      "batters": [
+        "Saleem Elahi",
+        "Yousuf Youhana"
+      ],
+      "runs": 32,
+      "balls": 31,
+      "batter1_contribution": 15,
+      "batter2_contribution": 15,
+      "overs_range": [
+        14,
+        19
+      ]
+    },
+    {
+      "wicket": 5,
+      "batters": [
+        "Younis Khan",
+        "Yousuf Youhana"
+      ],
+      "runs": 22,
+      "balls": 36,
+      "batter1_contribution": 8,
+      "batter2_contribution": 12,
+      "overs_range": [
+        19,
+        25
+      ]
+    },
+    {
+      "wicket": 6,
+      "batters": [
+        "Abdul Razzaq",
+        "Younis Khan"
+      ],
+      "runs": 22,
+      "balls": 30,
+      "batter1_contribution": 8,
+      "batter2_contribution": 11,
+      "overs_range": [
+        25,
+        30
+      ]
+    },
+    {
+      "wicket": 7,
+      "batters": [
+        "Abdul Razzaq",
+        "Rashid Latif"
+      ],
+      "runs": 22,
+      "balls": 25,
+      "batter1_contribution": 17,
+      "batter2_contribution": 4,
+      "overs_range": [
+        30,
+        34
+      ]
+    },
+    {
+      "wicket": 8,
+      "batters": [
+        "Rashid Latif",
+        "Wasim Akram"
+      ],
+      "runs": 54,
+      "balls": 29,
+      "batter1_contribution": 29,
+      "batter2_contribution": 21,
+      "overs_range": [
+        34,
+        38
+      ]
+    },
+    {
+      "wicket": 9,
+      "batters": [
+        "Waqar Younis",
+        "Wasim Akram"
+      ],
+      "runs": 22,
+      "balls": 24,
+      "batter1_contribution": 5,
+      "batter2_contribution": 12,
+      "overs_range": [
+        39,
+        42
+      ]
+    }
+  ]
+}

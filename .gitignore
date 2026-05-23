@@ -26,3 +26,6 @@ sportyland-89874-firebase-adminsdk-fbsvc-d7ca900f72.json
 *.njsproj
 *.sln
 *.sw?
+
+# Firebase credentials
+cricket-analysis-7761c-firebase-adminsdk-fbsvc-1b0aae5938.json
